@@ -10,4 +10,6 @@ urlpatterns  = [
 	url(r'^create/$', login_required(views.create), name='create'),
 	url(r'^list/$', login_required(views.list), name='list'),
 	url(r'^list_json$', login_required(views.ListJson.as_view()), name='list_json'),
+	url(r'^api/$', login_required(views.productsales), name='productsales_api'),
+	url(r'^products_api/$', login_required(views.products), name='products_api'),
 ]

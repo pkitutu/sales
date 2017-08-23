@@ -1,0 +1,9902 @@
+[
+{
+ "model": "products.products",
+ "pk": 1,
+ "fields": {
+  "product_name": "Flower - Commercial Bronze",
+  "buying_price": 453,
+  "selling_price": 552
+ }
+},
+{
+ "model": "products.products",
+ "pk": 2,
+ "fields": {
+  "product_name": "Turkey - Breast, Double",
+  "buying_price": 349,
+  "selling_price": 427
+ }
+},
+{
+ "model": "products.products",
+ "pk": 3,
+ "fields": {
+  "product_name": "Chicken Breast Halal",
+  "buying_price": 143,
+  "selling_price": 180
+ }
+},
+{
+ "model": "products.products",
+ "pk": 4,
+ "fields": {
+  "product_name": "Pastry - Choclate Baked",
+  "buying_price": 461,
+  "selling_price": 561
+ }
+},
+{
+ "model": "products.products",
+ "pk": 5,
+ "fields": {
+  "product_name": "Bacardi Raspberry",
+  "buying_price": 273,
+  "selling_price": 336
+ }
+},
+{
+ "model": "products.products",
+ "pk": 6,
+ "fields": {
+  "product_name": "Scallops - 20/30",
+  "buying_price": 474,
+  "selling_price": 577
+ }
+},
+{
+ "model": "products.products",
+ "pk": 7,
+ "fields": {
+  "product_name": "Compound - Raspberry",
+  "buying_price": 411,
+  "selling_price": 501
+ }
+},
+{
+ "model": "products.products",
+ "pk": 8,
+ "fields": {
+  "product_name": "Sorrel - Fresh",
+  "buying_price": 259,
+  "selling_price": 319
+ }
+},
+{
+ "model": "products.products",
+ "pk": 9,
+ "fields": {
+  "product_name": "Wine - Beringer Founders Estate",
+  "buying_price": 216,
+  "selling_price": 267
+ }
+},
+{
+ "model": "products.products",
+ "pk": 10,
+ "fields": {
+  "product_name": "Cocoa Powder - Dutched",
+  "buying_price": 256,
+  "selling_price": 315
+ }
+},
+{
+ "model": "products.products",
+ "pk": 11,
+ "fields": {
+  "product_name": "Bok Choy - Baby",
+  "buying_price": 122,
+  "selling_price": 154
+ }
+},
+{
+ "model": "products.products",
+ "pk": 12,
+ "fields": {
+  "product_name": "Orange Roughy 6/8 Oz",
+  "buying_price": 393,
+  "selling_price": 480
+ }
+},
+{
+ "model": "products.products",
+ "pk": 13,
+ "fields": {
+  "product_name": "The Pop Shoppe - Grape",
+  "buying_price": 302,
+  "selling_price": 370
+ }
+},
+{
+ "model": "products.products",
+ "pk": 14,
+ "fields": {
+  "product_name": "Lychee",
+  "buying_price": 439,
+  "selling_price": 535
+ }
+},
+{
+ "model": "products.products",
+ "pk": 15,
+ "fields": {
+  "product_name": "Chicken - Livers",
+  "buying_price": 352,
+  "selling_price": 430
+ }
+},
+{
+ "model": "products.products",
+ "pk": 16,
+ "fields": {
+  "product_name": "Cocoa Butter",
+  "buying_price": 158,
+  "selling_price": 198
+ }
+},
+{
+ "model": "products.products",
+ "pk": 17,
+ "fields": {
+  "product_name": "Cheese - Le Cheve Noir",
+  "buying_price": 481,
+  "selling_price": 585
+ }
+},
+{
+ "model": "products.products",
+ "pk": 18,
+ "fields": {
+  "product_name": "Coffee - Frthy Coffee Crisp",
+  "buying_price": 444,
+  "selling_price": 541
+ }
+},
+{
+ "model": "products.products",
+ "pk": 19,
+ "fields": {
+  "product_name": "Trout Rainbow Whole",
+  "buying_price": 278,
+  "selling_price": 342
+ }
+},
+{
+ "model": "products.products",
+ "pk": 20,
+ "fields": {
+  "product_name": "Gooseberry",
+  "buying_price": 335,
+  "selling_price": 410
+ }
+},
+{
+ "model": "products.products",
+ "pk": 21,
+ "fields": {
+  "product_name": "Wine - Blue Nun Qualitatswein",
+  "buying_price": 308,
+  "selling_price": 378
+ }
+},
+{
+ "model": "products.products",
+ "pk": 22,
+ "fields": {
+  "product_name": "Appetizer - Mango Chevre",
+  "buying_price": 219,
+  "selling_price": 271
+ }
+},
+{
+ "model": "products.products",
+ "pk": 23,
+ "fields": {
+  "product_name": "Grapefruit - White",
+  "buying_price": 163,
+  "selling_price": 204
+ }
+},
+{
+ "model": "products.products",
+ "pk": 24,
+ "fields": {
+  "product_name": "Pepper - Green Thai",
+  "buying_price": 473,
+  "selling_price": 576
+ }
+},
+{
+ "model": "products.products",
+ "pk": 25,
+ "fields": {
+  "product_name": "Beans - Navy, Dry",
+  "buying_price": 204,
+  "selling_price": 253
+ }
+},
+{
+ "model": "products.products",
+ "pk": 26,
+ "fields": {
+  "product_name": "Shallots",
+  "buying_price": 221,
+  "selling_price": 273
+ }
+},
+{
+ "model": "products.products",
+ "pk": 27,
+ "fields": {
+  "product_name": "Smoked Tongue",
+  "buying_price": 463,
+  "selling_price": 564
+ }
+},
+{
+ "model": "products.products",
+ "pk": 28,
+ "fields": {
+  "product_name": "Pickerel - Fillets",
+  "buying_price": 239,
+  "selling_price": 295
+ }
+},
+{
+ "model": "products.products",
+ "pk": 29,
+ "fields": {
+  "product_name": "Beans - Soya Bean",
+  "buying_price": 199,
+  "selling_price": 247
+ }
+},
+{
+ "model": "products.products",
+ "pk": 30,
+ "fields": {
+  "product_name": "Island Oasis - Ice Cream Mix",
+  "buying_price": 411,
+  "selling_price": 501
+ }
+},
+{
+ "model": "products.products",
+ "pk": 31,
+ "fields": {
+  "product_name": "Wine - Rosso Del Veronese Igt",
+  "buying_price": 119,
+  "selling_price": 151
+ }
+},
+{
+ "model": "products.products",
+ "pk": 32,
+ "fields": {
+  "product_name": "Octopus",
+  "buying_price": 170,
+  "selling_price": 212
+ }
+},
+{
+ "model": "products.products",
+ "pk": 33,
+ "fields": {
+  "product_name": "Hagen Daza - Dk Choocolate",
+  "buying_price": 429,
+  "selling_price": 523
+ }
+},
+{
+ "model": "products.products",
+ "pk": 34,
+ "fields": {
+  "product_name": "Vinegar - Cider",
+  "buying_price": 449,
+  "selling_price": 547
+ }
+},
+{
+ "model": "products.products",
+ "pk": 35,
+ "fields": {
+  "product_name": "Gatorade - Xfactor Berry",
+  "buying_price": 390,
+  "selling_price": 476
+ }
+},
+{
+ "model": "products.products",
+ "pk": 36,
+ "fields": {
+  "product_name": "Horseradish - Prepared",
+  "buying_price": 130,
+  "selling_price": 164
+ }
+},
+{
+ "model": "products.products",
+ "pk": 37,
+ "fields": {
+  "product_name": "Amarula Cream",
+  "buying_price": 307,
+  "selling_price": 376
+ }
+},
+{
+ "model": "products.products",
+ "pk": 38,
+ "fields": {
+  "product_name": "Tendrils - Baby Pea, Organic",
+  "buying_price": 151,
+  "selling_price": 189
+ }
+},
+{
+ "model": "products.products",
+ "pk": 39,
+ "fields": {
+  "product_name": "Cup Translucent 9 Oz",
+  "buying_price": 304,
+  "selling_price": 373
+ }
+},
+{
+ "model": "products.products",
+ "pk": 40,
+ "fields": {
+  "product_name": "Bread - Corn Muffaletta",
+  "buying_price": 471,
+  "selling_price": 573
+ }
+},
+{
+ "model": "products.products",
+ "pk": 41,
+ "fields": {
+  "product_name": "Muskox - French Rack",
+  "buying_price": 420,
+  "selling_price": 512
+ }
+},
+{
+ "model": "products.products",
+ "pk": 42,
+ "fields": {
+  "product_name": "Swordfish Loin Portions",
+  "buying_price": 465,
+  "selling_price": 566
+ }
+},
+{
+ "model": "products.products",
+ "pk": 43,
+ "fields": {
+  "product_name": "Chips - Potato Jalapeno",
+  "buying_price": 320,
+  "selling_price": 392
+ }
+},
+{
+ "model": "products.products",
+ "pk": 44,
+ "fields": {
+  "product_name": "Veal - Round, Eye Of",
+  "buying_price": 468,
+  "selling_price": 570
+ }
+},
+{
+ "model": "products.products",
+ "pk": 45,
+ "fields": {
+  "product_name": "Potatoes - Purple, Organic",
+  "buying_price": 156,
+  "selling_price": 195
+ }
+},
+{
+ "model": "products.products",
+ "pk": 46,
+ "fields": {
+  "product_name": "Beef - Ground, Extra Lean, Fresh",
+  "buying_price": 185,
+  "selling_price": 230
+ }
+},
+{
+ "model": "products.products",
+ "pk": 47,
+ "fields": {
+  "product_name": "Shrimp - 16 - 20 Cooked, Peeled",
+  "buying_price": 131,
+  "selling_price": 165
+ }
+},
+{
+ "model": "products.products",
+ "pk": 48,
+ "fields": {
+  "product_name": "Container Clear 8 Oz",
+  "buying_price": 218,
+  "selling_price": 270
+ }
+},
+{
+ "model": "products.products",
+ "pk": 49,
+ "fields": {
+  "product_name": "Salsify, Organic",
+  "buying_price": 229,
+  "selling_price": 283
+ }
+},
+{
+ "model": "products.products",
+ "pk": 50,
+ "fields": {
+  "product_name": "Oil - Truffle, White",
+  "buying_price": 385,
+  "selling_price": 470
+ }
+},
+{
+ "model": "products.products",
+ "pk": 51,
+ "fields": {
+  "product_name": "Shallots",
+  "buying_price": 237,
+  "selling_price": 292
+ }
+},
+{
+ "model": "products.products",
+ "pk": 52,
+ "fields": {
+  "product_name": "Table Cloth 91x91 Colour",
+  "buying_price": 301,
+  "selling_price": 369
+ }
+},
+{
+ "model": "products.products",
+ "pk": 53,
+ "fields": {
+  "product_name": "Muffin Mix - Corn Harvest",
+  "buying_price": 313,
+  "selling_price": 384
+ }
+},
+{
+ "model": "products.products",
+ "pk": 54,
+ "fields": {
+  "product_name": "Tart Shells - Sweet, 2",
+  "buying_price": 153,
+  "selling_price": 192
+ }
+},
+{
+ "model": "products.products",
+ "pk": 55,
+ "fields": {
+  "product_name": "Green Scrubbie Pad H.duty",
+  "buying_price": 335,
+  "selling_price": 410
+ }
+},
+{
+ "model": "products.products",
+ "pk": 56,
+ "fields": {
+  "product_name": "Wine - Valpolicella Masi",
+  "buying_price": 462,
+  "selling_price": 562
+ }
+},
+{
+ "model": "products.products",
+ "pk": 57,
+ "fields": {
+  "product_name": "Puree - Kiwi",
+  "buying_price": 354,
+  "selling_price": 433
+ }
+},
+{
+ "model": "products.products",
+ "pk": 58,
+ "fields": {
+  "product_name": "Rum - Mount Gay Eclipes",
+  "buying_price": 476,
+  "selling_price": 579
+ }
+},
+{
+ "model": "products.products",
+ "pk": 59,
+ "fields": {
+  "product_name": "Table Cloth 90x90 Colour",
+  "buying_price": 254,
+  "selling_price": 313
+ }
+},
+{
+ "model": "products.products",
+ "pk": 60,
+ "fields": {
+  "product_name": "Chicken Giblets",
+  "buying_price": 415,
+  "selling_price": 506
+ }
+},
+{
+ "model": "products.products",
+ "pk": 61,
+ "fields": {
+  "product_name": "Beer - Rickards Red",
+  "buying_price": 295,
+  "selling_price": 362
+ }
+},
+{
+ "model": "products.products",
+ "pk": 62,
+ "fields": {
+  "product_name": "Octopus",
+  "buying_price": 411,
+  "selling_price": 501
+ }
+},
+{
+ "model": "products.products",
+ "pk": 63,
+ "fields": {
+  "product_name": "Soup Bowl Clear 8oz92008",
+  "buying_price": 403,
+  "selling_price": 492
+ }
+},
+{
+ "model": "products.products",
+ "pk": 64,
+ "fields": {
+  "product_name": "Cup - Paper 10oz 92959",
+  "buying_price": 366,
+  "selling_price": 447
+ }
+},
+{
+ "model": "products.products",
+ "pk": 65,
+ "fields": {
+  "product_name": "Bread - Granary Small Pull",
+  "buying_price": 163,
+  "selling_price": 204
+ }
+},
+{
+ "model": "products.products",
+ "pk": 66,
+ "fields": {
+  "product_name": "Tea - Herbal I Love Lemon",
+  "buying_price": 329,
+  "selling_price": 403
+ }
+},
+{
+ "model": "products.products",
+ "pk": 67,
+ "fields": {
+  "product_name": "Cleaner - Comet",
+  "buying_price": 138,
+  "selling_price": 174
+ }
+},
+{
+ "model": "products.products",
+ "pk": 68,
+ "fields": {
+  "product_name": "Carroway Seed",
+  "buying_price": 129,
+  "selling_price": 163
+ }
+},
+{
+ "model": "products.products",
+ "pk": 69,
+ "fields": {
+  "product_name": "Yeast - Fresh, Fleischman",
+  "buying_price": 392,
+  "selling_price": 478
+ }
+},
+{
+ "model": "products.products",
+ "pk": 70,
+ "fields": {
+  "product_name": "Dried Cherries",
+  "buying_price": 195,
+  "selling_price": 242
+ }
+},
+{
+ "model": "products.products",
+ "pk": 71,
+ "fields": {
+  "product_name": "Sage - Fresh",
+  "buying_price": 341,
+  "selling_price": 417
+ }
+},
+{
+ "model": "products.products",
+ "pk": 72,
+ "fields": {
+  "product_name": "Oil - Sesame",
+  "buying_price": 171,
+  "selling_price": 213
+ }
+},
+{
+ "model": "products.products",
+ "pk": 73,
+ "fields": {
+  "product_name": "Salmon - Atlantic, Fresh, Whole",
+  "buying_price": 298,
+  "selling_price": 366
+ }
+},
+{
+ "model": "products.products",
+ "pk": 74,
+ "fields": {
+  "product_name": "Cheese - Pont Couvert",
+  "buying_price": 262,
+  "selling_price": 322
+ }
+},
+{
+ "model": "products.products",
+ "pk": 75,
+ "fields": {
+  "product_name": "Pastry - Butterscotch Baked",
+  "buying_price": 107,
+  "selling_price": 136
+ }
+},
+{
+ "model": "products.products",
+ "pk": 76,
+ "fields": {
+  "product_name": "Sauce - Sesame Thai Dressing",
+  "buying_price": 249,
+  "selling_price": 307
+ }
+},
+{
+ "model": "products.products",
+ "pk": 77,
+ "fields": {
+  "product_name": "Chocolate Bar - Coffee Crisp",
+  "buying_price": 484,
+  "selling_price": 589
+ }
+},
+{
+ "model": "products.products",
+ "pk": 78,
+ "fields": {
+  "product_name": "Bacardi Raspberry",
+  "buying_price": 158,
+  "selling_price": 198
+ }
+},
+{
+ "model": "products.products",
+ "pk": 79,
+ "fields": {
+  "product_name": "Capers - Ox Eye Daisy",
+  "buying_price": 484,
+  "selling_price": 589
+ }
+},
+{
+ "model": "products.products",
+ "pk": 80,
+ "fields": {
+  "product_name": "Wine - Hardys Bankside Shiraz",
+  "buying_price": 354,
+  "selling_price": 433
+ }
+},
+{
+ "model": "products.products",
+ "pk": 81,
+ "fields": {
+  "product_name": "Piping Jelly - All Colours",
+  "buying_price": 164,
+  "selling_price": 205
+ }
+},
+{
+ "model": "products.products",
+ "pk": 82,
+ "fields": {
+  "product_name": "Island Oasis - Ice Cream Mix",
+  "buying_price": 326,
+  "selling_price": 399
+ }
+},
+{
+ "model": "products.products",
+ "pk": 83,
+ "fields": {
+  "product_name": "Cotton Wet Mop 16 Oz",
+  "buying_price": 237,
+  "selling_price": 292
+ }
+},
+{
+ "model": "products.products",
+ "pk": 84,
+ "fields": {
+  "product_name": "Glaze - Apricot",
+  "buying_price": 103,
+  "selling_price": 132
+ }
+},
+{
+ "model": "products.products",
+ "pk": 85,
+ "fields": {
+  "product_name": "Sesame Seed",
+  "buying_price": 205,
+  "selling_price": 254
+ }
+},
+{
+ "model": "products.products",
+ "pk": 86,
+ "fields": {
+  "product_name": "Beer - Guiness",
+  "buying_price": 270,
+  "selling_price": 332
+ }
+},
+{
+ "model": "products.products",
+ "pk": 87,
+ "fields": {
+  "product_name": "Beer - Blue Light",
+  "buying_price": 423,
+  "selling_price": 516
+ }
+},
+{
+ "model": "products.products",
+ "pk": 88,
+ "fields": {
+  "product_name": "Petit Baguette",
+  "buying_price": 375,
+  "selling_price": 458
+ }
+},
+{
+ "model": "products.products",
+ "pk": 89,
+ "fields": {
+  "product_name": "Wine - Harrow Estates, Vidal",
+  "buying_price": 281,
+  "selling_price": 345
+ }
+},
+{
+ "model": "products.products",
+ "pk": 90,
+ "fields": {
+  "product_name": "Apple - Northern Spy",
+  "buying_price": 148,
+  "selling_price": 186
+ }
+},
+{
+ "model": "products.products",
+ "pk": 91,
+ "fields": {
+  "product_name": "Garam Marsala",
+  "buying_price": 223,
+  "selling_price": 276
+ }
+},
+{
+ "model": "products.products",
+ "pk": 92,
+ "fields": {
+  "product_name": "Dry Ice",
+  "buying_price": 388,
+  "selling_price": 474
+ }
+},
+{
+ "model": "products.products",
+ "pk": 93,
+ "fields": {
+  "product_name": "Jam - Raspberry,jar",
+  "buying_price": 449,
+  "selling_price": 547
+ }
+},
+{
+ "model": "products.products",
+ "pk": 94,
+ "fields": {
+  "product_name": "Milk - Homo",
+  "buying_price": 295,
+  "selling_price": 362
+ }
+},
+{
+ "model": "products.products",
+ "pk": 95,
+ "fields": {
+  "product_name": "Wine - Delicato Merlot",
+  "buying_price": 237,
+  "selling_price": 292
+ }
+},
+{
+ "model": "products.products",
+ "pk": 96,
+ "fields": {
+  "product_name": "Wine - Pinot Noir Mondavi Coastal",
+  "buying_price": 298,
+  "selling_price": 366
+ }
+},
+{
+ "model": "products.products",
+ "pk": 97,
+ "fields": {
+  "product_name": "Honey - Liquid",
+  "buying_price": 304,
+  "selling_price": 373
+ }
+},
+{
+ "model": "products.products",
+ "pk": 98,
+ "fields": {
+  "product_name": "Pineapple - Canned, Rings",
+  "buying_price": 197,
+  "selling_price": 244
+ }
+},
+{
+ "model": "products.products",
+ "pk": 99,
+ "fields": {
+  "product_name": "Oven Mitt - 13 Inch",
+  "buying_price": 157,
+  "selling_price": 196
+ }
+},
+{
+ "model": "products.products",
+ "pk": 100,
+ "fields": {
+  "product_name": "Cocoa Feuilletine",
+  "buying_price": 428,
+  "selling_price": 522
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 1,
+ "fields": {
+  "product": 64,
+  "units_sold": 11,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 2,
+ "fields": {
+  "product": 36,
+  "units_sold": 13,
+  "selling_date": "2016-01-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 3,
+ "fields": {
+  "product": 58,
+  "units_sold": 3,
+  "selling_date": "2016-01-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 4,
+ "fields": {
+  "product": 79,
+  "units_sold": 4,
+  "selling_date": "2016-02-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 5,
+ "fields": {
+  "product": 77,
+  "units_sold": 6,
+  "selling_date": "2016-12-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 6,
+ "fields": {
+  "product": 20,
+  "units_sold": 3,
+  "selling_date": "2016-01-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 7,
+ "fields": {
+  "product": 53,
+  "units_sold": 10,
+  "selling_date": "2016-02-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 8,
+ "fields": {
+  "product": 36,
+  "units_sold": 19,
+  "selling_date": "2016-07-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 9,
+ "fields": {
+  "product": 64,
+  "units_sold": 2,
+  "selling_date": "2016-12-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 10,
+ "fields": {
+  "product": 17,
+  "units_sold": 15,
+  "selling_date": "2016-02-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 11,
+ "fields": {
+  "product": 40,
+  "units_sold": 20,
+  "selling_date": "2016-08-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 12,
+ "fields": {
+  "product": 47,
+  "units_sold": 7,
+  "selling_date": "2016-12-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 13,
+ "fields": {
+  "product": 74,
+  "units_sold": 14,
+  "selling_date": "2016-11-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 14,
+ "fields": {
+  "product": 29,
+  "units_sold": 18,
+  "selling_date": "2016-06-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 15,
+ "fields": {
+  "product": 47,
+  "units_sold": 9,
+  "selling_date": "2016-10-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 16,
+ "fields": {
+  "product": 5,
+  "units_sold": 8,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 17,
+ "fields": {
+  "product": 52,
+  "units_sold": 18,
+  "selling_date": "2016-07-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 18,
+ "fields": {
+  "product": 48,
+  "units_sold": 14,
+  "selling_date": "2016-02-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 19,
+ "fields": {
+  "product": 35,
+  "units_sold": 20,
+  "selling_date": "2016-02-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 20,
+ "fields": {
+  "product": 78,
+  "units_sold": 13,
+  "selling_date": "2016-02-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 21,
+ "fields": {
+  "product": 68,
+  "units_sold": 8,
+  "selling_date": "2016-02-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 22,
+ "fields": {
+  "product": 17,
+  "units_sold": 6,
+  "selling_date": "2016-07-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 23,
+ "fields": {
+  "product": 87,
+  "units_sold": 18,
+  "selling_date": "2016-08-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 24,
+ "fields": {
+  "product": 48,
+  "units_sold": 6,
+  "selling_date": "2016-05-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 25,
+ "fields": {
+  "product": 86,
+  "units_sold": 1,
+  "selling_date": "2016-12-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 26,
+ "fields": {
+  "product": 83,
+  "units_sold": 9,
+  "selling_date": "2016-10-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 27,
+ "fields": {
+  "product": 20,
+  "units_sold": 16,
+  "selling_date": "2016-09-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 28,
+ "fields": {
+  "product": 100,
+  "units_sold": 18,
+  "selling_date": "2016-11-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 29,
+ "fields": {
+  "product": 25,
+  "units_sold": 3,
+  "selling_date": "2016-09-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 30,
+ "fields": {
+  "product": 9,
+  "units_sold": 7,
+  "selling_date": "2016-05-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 31,
+ "fields": {
+  "product": 8,
+  "units_sold": 14,
+  "selling_date": "2016-04-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 32,
+ "fields": {
+  "product": 12,
+  "units_sold": 19,
+  "selling_date": "2016-09-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 33,
+ "fields": {
+  "product": 2,
+  "units_sold": 0,
+  "selling_date": "2016-12-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 34,
+ "fields": {
+  "product": 16,
+  "units_sold": 0,
+  "selling_date": "2016-02-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 35,
+ "fields": {
+  "product": 35,
+  "units_sold": 14,
+  "selling_date": "2016-09-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 36,
+ "fields": {
+  "product": 27,
+  "units_sold": 1,
+  "selling_date": "2016-07-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 37,
+ "fields": {
+  "product": 23,
+  "units_sold": 0,
+  "selling_date": "2016-02-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 38,
+ "fields": {
+  "product": 81,
+  "units_sold": 11,
+  "selling_date": "2016-06-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 39,
+ "fields": {
+  "product": 22,
+  "units_sold": 2,
+  "selling_date": "2016-04-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 40,
+ "fields": {
+  "product": 70,
+  "units_sold": 9,
+  "selling_date": "2016-01-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 41,
+ "fields": {
+  "product": 7,
+  "units_sold": 1,
+  "selling_date": "2016-07-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 42,
+ "fields": {
+  "product": 70,
+  "units_sold": 17,
+  "selling_date": "2016-09-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 43,
+ "fields": {
+  "product": 15,
+  "units_sold": 19,
+  "selling_date": "2016-12-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 44,
+ "fields": {
+  "product": 50,
+  "units_sold": 14,
+  "selling_date": "2016-05-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 45,
+ "fields": {
+  "product": 46,
+  "units_sold": 6,
+  "selling_date": "2016-11-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 46,
+ "fields": {
+  "product": 93,
+  "units_sold": 4,
+  "selling_date": "2016-07-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 47,
+ "fields": {
+  "product": 82,
+  "units_sold": 1,
+  "selling_date": "2016-12-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 48,
+ "fields": {
+  "product": 31,
+  "units_sold": 13,
+  "selling_date": "2016-06-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 49,
+ "fields": {
+  "product": 64,
+  "units_sold": 11,
+  "selling_date": "2016-10-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 50,
+ "fields": {
+  "product": 86,
+  "units_sold": 20,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 51,
+ "fields": {
+  "product": 41,
+  "units_sold": 2,
+  "selling_date": "2016-04-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 52,
+ "fields": {
+  "product": 54,
+  "units_sold": 12,
+  "selling_date": "2016-08-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 53,
+ "fields": {
+  "product": 3,
+  "units_sold": 18,
+  "selling_date": "2016-12-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 54,
+ "fields": {
+  "product": 93,
+  "units_sold": 17,
+  "selling_date": "2016-02-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 55,
+ "fields": {
+  "product": 60,
+  "units_sold": 17,
+  "selling_date": "2016-01-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 56,
+ "fields": {
+  "product": 50,
+  "units_sold": 5,
+  "selling_date": "2016-07-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 57,
+ "fields": {
+  "product": 28,
+  "units_sold": 12,
+  "selling_date": "2016-02-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 58,
+ "fields": {
+  "product": 90,
+  "units_sold": 7,
+  "selling_date": "2016-12-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 59,
+ "fields": {
+  "product": 37,
+  "units_sold": 9,
+  "selling_date": "2016-01-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 60,
+ "fields": {
+  "product": 7,
+  "units_sold": 4,
+  "selling_date": "2016-02-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 61,
+ "fields": {
+  "product": 50,
+  "units_sold": 3,
+  "selling_date": "2016-12-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 62,
+ "fields": {
+  "product": 66,
+  "units_sold": 9,
+  "selling_date": "2016-04-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 63,
+ "fields": {
+  "product": 68,
+  "units_sold": 14,
+  "selling_date": "2016-05-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 64,
+ "fields": {
+  "product": 51,
+  "units_sold": 3,
+  "selling_date": "2016-03-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 65,
+ "fields": {
+  "product": 86,
+  "units_sold": 1,
+  "selling_date": "2016-04-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 66,
+ "fields": {
+  "product": 67,
+  "units_sold": 18,
+  "selling_date": "2016-05-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 67,
+ "fields": {
+  "product": 32,
+  "units_sold": 11,
+  "selling_date": "2016-07-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 68,
+ "fields": {
+  "product": 87,
+  "units_sold": 18,
+  "selling_date": "2016-08-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 69,
+ "fields": {
+  "product": 69,
+  "units_sold": 12,
+  "selling_date": "2016-03-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 70,
+ "fields": {
+  "product": 50,
+  "units_sold": 14,
+  "selling_date": "2016-07-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 71,
+ "fields": {
+  "product": 20,
+  "units_sold": 8,
+  "selling_date": "2016-08-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 72,
+ "fields": {
+  "product": 86,
+  "units_sold": 12,
+  "selling_date": "2016-09-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 73,
+ "fields": {
+  "product": 53,
+  "units_sold": 9,
+  "selling_date": "2016-01-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 74,
+ "fields": {
+  "product": 45,
+  "units_sold": 9,
+  "selling_date": "2016-09-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 75,
+ "fields": {
+  "product": 26,
+  "units_sold": 11,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 76,
+ "fields": {
+  "product": 14,
+  "units_sold": 14,
+  "selling_date": "2016-04-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 77,
+ "fields": {
+  "product": 27,
+  "units_sold": 17,
+  "selling_date": "2016-07-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 78,
+ "fields": {
+  "product": 51,
+  "units_sold": 11,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 79,
+ "fields": {
+  "product": 72,
+  "units_sold": 1,
+  "selling_date": "2016-01-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 80,
+ "fields": {
+  "product": 13,
+  "units_sold": 11,
+  "selling_date": "2016-06-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 81,
+ "fields": {
+  "product": 30,
+  "units_sold": 19,
+  "selling_date": "2016-10-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 82,
+ "fields": {
+  "product": 13,
+  "units_sold": 2,
+  "selling_date": "2016-12-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 83,
+ "fields": {
+  "product": 90,
+  "units_sold": 19,
+  "selling_date": "2016-06-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 84,
+ "fields": {
+  "product": 85,
+  "units_sold": 17,
+  "selling_date": "2016-02-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 85,
+ "fields": {
+  "product": 83,
+  "units_sold": 9,
+  "selling_date": "2016-09-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 86,
+ "fields": {
+  "product": 7,
+  "units_sold": 0,
+  "selling_date": "2016-02-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 87,
+ "fields": {
+  "product": 7,
+  "units_sold": 11,
+  "selling_date": "2016-01-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 88,
+ "fields": {
+  "product": 91,
+  "units_sold": 7,
+  "selling_date": "2016-08-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 89,
+ "fields": {
+  "product": 7,
+  "units_sold": 13,
+  "selling_date": "2016-07-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 90,
+ "fields": {
+  "product": 59,
+  "units_sold": 4,
+  "selling_date": "2016-09-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 91,
+ "fields": {
+  "product": 58,
+  "units_sold": 8,
+  "selling_date": "2016-11-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 92,
+ "fields": {
+  "product": 93,
+  "units_sold": 10,
+  "selling_date": "2016-01-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 93,
+ "fields": {
+  "product": 28,
+  "units_sold": 1,
+  "selling_date": "2016-12-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 94,
+ "fields": {
+  "product": 3,
+  "units_sold": 18,
+  "selling_date": "2016-03-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 95,
+ "fields": {
+  "product": 68,
+  "units_sold": 4,
+  "selling_date": "2016-08-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 96,
+ "fields": {
+  "product": 42,
+  "units_sold": 12,
+  "selling_date": "2016-06-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 97,
+ "fields": {
+  "product": 24,
+  "units_sold": 0,
+  "selling_date": "2016-02-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 98,
+ "fields": {
+  "product": 38,
+  "units_sold": 11,
+  "selling_date": "2016-06-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 99,
+ "fields": {
+  "product": 22,
+  "units_sold": 15,
+  "selling_date": "2016-11-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 100,
+ "fields": {
+  "product": 2,
+  "units_sold": 1,
+  "selling_date": "2016-02-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 101,
+ "fields": {
+  "product": 72,
+  "units_sold": 16,
+  "selling_date": "2016-04-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 102,
+ "fields": {
+  "product": 5,
+  "units_sold": 16,
+  "selling_date": "2016-06-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 103,
+ "fields": {
+  "product": 38,
+  "units_sold": 7,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 104,
+ "fields": {
+  "product": 22,
+  "units_sold": 16,
+  "selling_date": "2016-01-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 105,
+ "fields": {
+  "product": 82,
+  "units_sold": 6,
+  "selling_date": "2016-12-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 106,
+ "fields": {
+  "product": 8,
+  "units_sold": 5,
+  "selling_date": "2016-01-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 107,
+ "fields": {
+  "product": 97,
+  "units_sold": 0,
+  "selling_date": "2016-08-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 108,
+ "fields": {
+  "product": 34,
+  "units_sold": 6,
+  "selling_date": "2016-11-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 109,
+ "fields": {
+  "product": 13,
+  "units_sold": 1,
+  "selling_date": "2016-01-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 110,
+ "fields": {
+  "product": 87,
+  "units_sold": 18,
+  "selling_date": "2016-05-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 111,
+ "fields": {
+  "product": 91,
+  "units_sold": 9,
+  "selling_date": "2016-07-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 112,
+ "fields": {
+  "product": 75,
+  "units_sold": 9,
+  "selling_date": "2016-02-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 113,
+ "fields": {
+  "product": 97,
+  "units_sold": 13,
+  "selling_date": "2016-12-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 114,
+ "fields": {
+  "product": 6,
+  "units_sold": 2,
+  "selling_date": "2016-08-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 115,
+ "fields": {
+  "product": 73,
+  "units_sold": 16,
+  "selling_date": "2016-09-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 116,
+ "fields": {
+  "product": 91,
+  "units_sold": 6,
+  "selling_date": "2016-01-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 117,
+ "fields": {
+  "product": 70,
+  "units_sold": 17,
+  "selling_date": "2016-10-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 118,
+ "fields": {
+  "product": 26,
+  "units_sold": 17,
+  "selling_date": "2016-01-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 119,
+ "fields": {
+  "product": 88,
+  "units_sold": 13,
+  "selling_date": "2016-03-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 120,
+ "fields": {
+  "product": 20,
+  "units_sold": 20,
+  "selling_date": "2016-11-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 121,
+ "fields": {
+  "product": 10,
+  "units_sold": 6,
+  "selling_date": "2016-12-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 122,
+ "fields": {
+  "product": 70,
+  "units_sold": 5,
+  "selling_date": "2016-12-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 123,
+ "fields": {
+  "product": 82,
+  "units_sold": 8,
+  "selling_date": "2016-02-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 124,
+ "fields": {
+  "product": 76,
+  "units_sold": 4,
+  "selling_date": "2016-08-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 125,
+ "fields": {
+  "product": 65,
+  "units_sold": 17,
+  "selling_date": "2016-12-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 126,
+ "fields": {
+  "product": 2,
+  "units_sold": 8,
+  "selling_date": "2016-11-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 127,
+ "fields": {
+  "product": 2,
+  "units_sold": 3,
+  "selling_date": "2016-03-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 128,
+ "fields": {
+  "product": 44,
+  "units_sold": 9,
+  "selling_date": "2016-02-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 129,
+ "fields": {
+  "product": 14,
+  "units_sold": 16,
+  "selling_date": "2016-07-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 130,
+ "fields": {
+  "product": 20,
+  "units_sold": 4,
+  "selling_date": "2016-08-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 131,
+ "fields": {
+  "product": 74,
+  "units_sold": 1,
+  "selling_date": "2016-10-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 132,
+ "fields": {
+  "product": 6,
+  "units_sold": 2,
+  "selling_date": "2016-11-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 133,
+ "fields": {
+  "product": 78,
+  "units_sold": 8,
+  "selling_date": "2016-05-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 134,
+ "fields": {
+  "product": 63,
+  "units_sold": 12,
+  "selling_date": "2016-10-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 135,
+ "fields": {
+  "product": 58,
+  "units_sold": 14,
+  "selling_date": "2016-01-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 136,
+ "fields": {
+  "product": 21,
+  "units_sold": 11,
+  "selling_date": "2016-02-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 137,
+ "fields": {
+  "product": 85,
+  "units_sold": 7,
+  "selling_date": "2016-08-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 138,
+ "fields": {
+  "product": 34,
+  "units_sold": 4,
+  "selling_date": "2016-01-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 139,
+ "fields": {
+  "product": 26,
+  "units_sold": 18,
+  "selling_date": "2016-11-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 140,
+ "fields": {
+  "product": 47,
+  "units_sold": 3,
+  "selling_date": "2016-06-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 141,
+ "fields": {
+  "product": 64,
+  "units_sold": 15,
+  "selling_date": "2016-07-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 142,
+ "fields": {
+  "product": 55,
+  "units_sold": 3,
+  "selling_date": "2016-07-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 143,
+ "fields": {
+  "product": 89,
+  "units_sold": 5,
+  "selling_date": "2016-09-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 144,
+ "fields": {
+  "product": 71,
+  "units_sold": 18,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 145,
+ "fields": {
+  "product": 57,
+  "units_sold": 20,
+  "selling_date": "2016-11-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 146,
+ "fields": {
+  "product": 89,
+  "units_sold": 18,
+  "selling_date": "2016-08-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 147,
+ "fields": {
+  "product": 1,
+  "units_sold": 13,
+  "selling_date": "2016-11-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 148,
+ "fields": {
+  "product": 16,
+  "units_sold": 7,
+  "selling_date": "2016-03-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 149,
+ "fields": {
+  "product": 91,
+  "units_sold": 13,
+  "selling_date": "2016-05-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 150,
+ "fields": {
+  "product": 4,
+  "units_sold": 0,
+  "selling_date": "2016-02-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 151,
+ "fields": {
+  "product": 94,
+  "units_sold": 5,
+  "selling_date": "2016-09-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 152,
+ "fields": {
+  "product": 13,
+  "units_sold": 12,
+  "selling_date": "2016-11-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 153,
+ "fields": {
+  "product": 67,
+  "units_sold": 4,
+  "selling_date": "2016-03-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 154,
+ "fields": {
+  "product": 46,
+  "units_sold": 11,
+  "selling_date": "2016-02-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 155,
+ "fields": {
+  "product": 23,
+  "units_sold": 1,
+  "selling_date": "2016-09-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 156,
+ "fields": {
+  "product": 12,
+  "units_sold": 20,
+  "selling_date": "2016-04-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 157,
+ "fields": {
+  "product": 46,
+  "units_sold": 5,
+  "selling_date": "2016-02-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 158,
+ "fields": {
+  "product": 81,
+  "units_sold": 17,
+  "selling_date": "2016-07-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 159,
+ "fields": {
+  "product": 67,
+  "units_sold": 5,
+  "selling_date": "2016-09-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 160,
+ "fields": {
+  "product": 3,
+  "units_sold": 9,
+  "selling_date": "2016-01-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 161,
+ "fields": {
+  "product": 48,
+  "units_sold": 8,
+  "selling_date": "2016-04-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 162,
+ "fields": {
+  "product": 99,
+  "units_sold": 6,
+  "selling_date": "2016-10-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 163,
+ "fields": {
+  "product": 64,
+  "units_sold": 1,
+  "selling_date": "2016-04-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 164,
+ "fields": {
+  "product": 78,
+  "units_sold": 17,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 165,
+ "fields": {
+  "product": 96,
+  "units_sold": 0,
+  "selling_date": "2016-06-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 166,
+ "fields": {
+  "product": 98,
+  "units_sold": 20,
+  "selling_date": "2016-04-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 167,
+ "fields": {
+  "product": 86,
+  "units_sold": 6,
+  "selling_date": "2016-04-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 168,
+ "fields": {
+  "product": 53,
+  "units_sold": 4,
+  "selling_date": "2016-07-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 169,
+ "fields": {
+  "product": 50,
+  "units_sold": 19,
+  "selling_date": "2016-01-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 170,
+ "fields": {
+  "product": 64,
+  "units_sold": 1,
+  "selling_date": "2016-12-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 171,
+ "fields": {
+  "product": 15,
+  "units_sold": 6,
+  "selling_date": "2016-01-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 172,
+ "fields": {
+  "product": 9,
+  "units_sold": 2,
+  "selling_date": "2016-12-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 173,
+ "fields": {
+  "product": 34,
+  "units_sold": 4,
+  "selling_date": "2016-07-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 174,
+ "fields": {
+  "product": 66,
+  "units_sold": 6,
+  "selling_date": "2016-07-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 175,
+ "fields": {
+  "product": 28,
+  "units_sold": 14,
+  "selling_date": "2016-01-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 176,
+ "fields": {
+  "product": 79,
+  "units_sold": 9,
+  "selling_date": "2016-02-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 177,
+ "fields": {
+  "product": 65,
+  "units_sold": 12,
+  "selling_date": "2016-03-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 178,
+ "fields": {
+  "product": 24,
+  "units_sold": 15,
+  "selling_date": "2016-05-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 179,
+ "fields": {
+  "product": 26,
+  "units_sold": 19,
+  "selling_date": "2016-06-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 180,
+ "fields": {
+  "product": 80,
+  "units_sold": 4,
+  "selling_date": "2016-06-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 181,
+ "fields": {
+  "product": 88,
+  "units_sold": 16,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 182,
+ "fields": {
+  "product": 24,
+  "units_sold": 20,
+  "selling_date": "2016-12-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 183,
+ "fields": {
+  "product": 78,
+  "units_sold": 20,
+  "selling_date": "2016-05-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 184,
+ "fields": {
+  "product": 39,
+  "units_sold": 14,
+  "selling_date": "2016-09-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 185,
+ "fields": {
+  "product": 96,
+  "units_sold": 10,
+  "selling_date": "2016-06-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 186,
+ "fields": {
+  "product": 26,
+  "units_sold": 6,
+  "selling_date": "2016-02-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 187,
+ "fields": {
+  "product": 58,
+  "units_sold": 9,
+  "selling_date": "2016-09-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 188,
+ "fields": {
+  "product": 33,
+  "units_sold": 13,
+  "selling_date": "2016-10-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 189,
+ "fields": {
+  "product": 89,
+  "units_sold": 9,
+  "selling_date": "2016-07-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 190,
+ "fields": {
+  "product": 93,
+  "units_sold": 12,
+  "selling_date": "2016-07-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 191,
+ "fields": {
+  "product": 60,
+  "units_sold": 17,
+  "selling_date": "2016-08-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 192,
+ "fields": {
+  "product": 11,
+  "units_sold": 14,
+  "selling_date": "2016-05-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 193,
+ "fields": {
+  "product": 27,
+  "units_sold": 13,
+  "selling_date": "2016-03-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 194,
+ "fields": {
+  "product": 13,
+  "units_sold": 8,
+  "selling_date": "2016-03-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 195,
+ "fields": {
+  "product": 87,
+  "units_sold": 5,
+  "selling_date": "2016-07-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 196,
+ "fields": {
+  "product": 25,
+  "units_sold": 4,
+  "selling_date": "2016-04-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 197,
+ "fields": {
+  "product": 46,
+  "units_sold": 7,
+  "selling_date": "2016-09-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 198,
+ "fields": {
+  "product": 71,
+  "units_sold": 1,
+  "selling_date": "2016-10-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 199,
+ "fields": {
+  "product": 42,
+  "units_sold": 20,
+  "selling_date": "2016-05-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 200,
+ "fields": {
+  "product": 46,
+  "units_sold": 15,
+  "selling_date": "2016-12-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 201,
+ "fields": {
+  "product": 89,
+  "units_sold": 4,
+  "selling_date": "2016-08-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 202,
+ "fields": {
+  "product": 73,
+  "units_sold": 5,
+  "selling_date": "2016-10-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 203,
+ "fields": {
+  "product": 19,
+  "units_sold": 1,
+  "selling_date": "2016-11-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 204,
+ "fields": {
+  "product": 81,
+  "units_sold": 7,
+  "selling_date": "2016-01-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 205,
+ "fields": {
+  "product": 16,
+  "units_sold": 19,
+  "selling_date": "2016-06-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 206,
+ "fields": {
+  "product": 13,
+  "units_sold": 17,
+  "selling_date": "2016-10-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 207,
+ "fields": {
+  "product": 89,
+  "units_sold": 19,
+  "selling_date": "2016-03-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 208,
+ "fields": {
+  "product": 24,
+  "units_sold": 12,
+  "selling_date": "2016-07-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 209,
+ "fields": {
+  "product": 17,
+  "units_sold": 9,
+  "selling_date": "2016-05-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 210,
+ "fields": {
+  "product": 28,
+  "units_sold": 3,
+  "selling_date": "2016-02-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 211,
+ "fields": {
+  "product": 13,
+  "units_sold": 19,
+  "selling_date": "2016-01-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 212,
+ "fields": {
+  "product": 60,
+  "units_sold": 9,
+  "selling_date": "2016-02-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 213,
+ "fields": {
+  "product": 13,
+  "units_sold": 9,
+  "selling_date": "2016-04-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 214,
+ "fields": {
+  "product": 17,
+  "units_sold": 7,
+  "selling_date": "2016-03-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 215,
+ "fields": {
+  "product": 34,
+  "units_sold": 9,
+  "selling_date": "2016-09-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 216,
+ "fields": {
+  "product": 69,
+  "units_sold": 5,
+  "selling_date": "2016-03-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 217,
+ "fields": {
+  "product": 65,
+  "units_sold": 9,
+  "selling_date": "2016-08-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 218,
+ "fields": {
+  "product": 21,
+  "units_sold": 20,
+  "selling_date": "2016-06-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 219,
+ "fields": {
+  "product": 82,
+  "units_sold": 14,
+  "selling_date": "2016-01-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 220,
+ "fields": {
+  "product": 71,
+  "units_sold": 18,
+  "selling_date": "2016-01-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 221,
+ "fields": {
+  "product": 93,
+  "units_sold": 15,
+  "selling_date": "2016-01-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 222,
+ "fields": {
+  "product": 49,
+  "units_sold": 4,
+  "selling_date": "2016-10-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 223,
+ "fields": {
+  "product": 36,
+  "units_sold": 12,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 224,
+ "fields": {
+  "product": 40,
+  "units_sold": 5,
+  "selling_date": "2016-03-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 225,
+ "fields": {
+  "product": 22,
+  "units_sold": 5,
+  "selling_date": "2016-02-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 226,
+ "fields": {
+  "product": 1,
+  "units_sold": 6,
+  "selling_date": "2016-05-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 227,
+ "fields": {
+  "product": 58,
+  "units_sold": 18,
+  "selling_date": "2016-09-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 228,
+ "fields": {
+  "product": 93,
+  "units_sold": 10,
+  "selling_date": "2016-02-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 229,
+ "fields": {
+  "product": 7,
+  "units_sold": 2,
+  "selling_date": "2016-05-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 230,
+ "fields": {
+  "product": 9,
+  "units_sold": 12,
+  "selling_date": "2016-11-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 231,
+ "fields": {
+  "product": 17,
+  "units_sold": 5,
+  "selling_date": "2016-09-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 232,
+ "fields": {
+  "product": 84,
+  "units_sold": 7,
+  "selling_date": "2016-05-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 233,
+ "fields": {
+  "product": 11,
+  "units_sold": 8,
+  "selling_date": "2016-11-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 234,
+ "fields": {
+  "product": 72,
+  "units_sold": 17,
+  "selling_date": "2016-11-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 235,
+ "fields": {
+  "product": 96,
+  "units_sold": 20,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 236,
+ "fields": {
+  "product": 2,
+  "units_sold": 18,
+  "selling_date": "2016-01-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 237,
+ "fields": {
+  "product": 49,
+  "units_sold": 6,
+  "selling_date": "2016-01-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 238,
+ "fields": {
+  "product": 20,
+  "units_sold": 12,
+  "selling_date": "2016-02-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 239,
+ "fields": {
+  "product": 52,
+  "units_sold": 4,
+  "selling_date": "2016-10-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 240,
+ "fields": {
+  "product": 55,
+  "units_sold": 15,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 241,
+ "fields": {
+  "product": 18,
+  "units_sold": 17,
+  "selling_date": "2016-09-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 242,
+ "fields": {
+  "product": 88,
+  "units_sold": 13,
+  "selling_date": "2016-11-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 243,
+ "fields": {
+  "product": 91,
+  "units_sold": 16,
+  "selling_date": "2016-02-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 244,
+ "fields": {
+  "product": 58,
+  "units_sold": 19,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 245,
+ "fields": {
+  "product": 90,
+  "units_sold": 18,
+  "selling_date": "2016-02-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 246,
+ "fields": {
+  "product": 13,
+  "units_sold": 14,
+  "selling_date": "2016-12-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 247,
+ "fields": {
+  "product": 84,
+  "units_sold": 19,
+  "selling_date": "2016-12-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 248,
+ "fields": {
+  "product": 50,
+  "units_sold": 20,
+  "selling_date": "2016-09-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 249,
+ "fields": {
+  "product": 68,
+  "units_sold": 13,
+  "selling_date": "2016-05-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 250,
+ "fields": {
+  "product": 39,
+  "units_sold": 8,
+  "selling_date": "2016-11-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 251,
+ "fields": {
+  "product": 8,
+  "units_sold": 9,
+  "selling_date": "2016-02-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 252,
+ "fields": {
+  "product": 81,
+  "units_sold": 13,
+  "selling_date": "2016-07-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 253,
+ "fields": {
+  "product": 81,
+  "units_sold": 8,
+  "selling_date": "2016-02-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 254,
+ "fields": {
+  "product": 54,
+  "units_sold": 12,
+  "selling_date": "2016-08-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 255,
+ "fields": {
+  "product": 21,
+  "units_sold": 15,
+  "selling_date": "2016-06-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 256,
+ "fields": {
+  "product": 23,
+  "units_sold": 8,
+  "selling_date": "2016-12-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 257,
+ "fields": {
+  "product": 4,
+  "units_sold": 12,
+  "selling_date": "2016-04-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 258,
+ "fields": {
+  "product": 4,
+  "units_sold": 11,
+  "selling_date": "2016-03-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 259,
+ "fields": {
+  "product": 45,
+  "units_sold": 16,
+  "selling_date": "2016-08-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 260,
+ "fields": {
+  "product": 8,
+  "units_sold": 6,
+  "selling_date": "2016-12-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 261,
+ "fields": {
+  "product": 98,
+  "units_sold": 11,
+  "selling_date": "2016-09-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 262,
+ "fields": {
+  "product": 82,
+  "units_sold": 17,
+  "selling_date": "2016-01-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 263,
+ "fields": {
+  "product": 76,
+  "units_sold": 14,
+  "selling_date": "2016-07-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 264,
+ "fields": {
+  "product": 80,
+  "units_sold": 14,
+  "selling_date": "2016-03-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 265,
+ "fields": {
+  "product": 62,
+  "units_sold": 1,
+  "selling_date": "2016-04-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 266,
+ "fields": {
+  "product": 40,
+  "units_sold": 13,
+  "selling_date": "2016-08-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 267,
+ "fields": {
+  "product": 39,
+  "units_sold": 1,
+  "selling_date": "2016-10-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 268,
+ "fields": {
+  "product": 14,
+  "units_sold": 14,
+  "selling_date": "2016-07-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 269,
+ "fields": {
+  "product": 43,
+  "units_sold": 10,
+  "selling_date": "2016-02-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 270,
+ "fields": {
+  "product": 10,
+  "units_sold": 17,
+  "selling_date": "2016-06-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 271,
+ "fields": {
+  "product": 34,
+  "units_sold": 15,
+  "selling_date": "2016-03-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 272,
+ "fields": {
+  "product": 91,
+  "units_sold": 18,
+  "selling_date": "2016-10-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 273,
+ "fields": {
+  "product": 96,
+  "units_sold": 14,
+  "selling_date": "2016-01-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 274,
+ "fields": {
+  "product": 23,
+  "units_sold": 7,
+  "selling_date": "2016-06-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 275,
+ "fields": {
+  "product": 38,
+  "units_sold": 11,
+  "selling_date": "2016-01-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 276,
+ "fields": {
+  "product": 55,
+  "units_sold": 16,
+  "selling_date": "2016-10-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 277,
+ "fields": {
+  "product": 48,
+  "units_sold": 11,
+  "selling_date": "2016-05-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 278,
+ "fields": {
+  "product": 9,
+  "units_sold": 4,
+  "selling_date": "2016-03-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 279,
+ "fields": {
+  "product": 30,
+  "units_sold": 6,
+  "selling_date": "2016-05-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 280,
+ "fields": {
+  "product": 82,
+  "units_sold": 2,
+  "selling_date": "2016-09-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 281,
+ "fields": {
+  "product": 97,
+  "units_sold": 9,
+  "selling_date": "2016-05-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 282,
+ "fields": {
+  "product": 42,
+  "units_sold": 11,
+  "selling_date": "2016-12-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 283,
+ "fields": {
+  "product": 82,
+  "units_sold": 13,
+  "selling_date": "2016-07-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 284,
+ "fields": {
+  "product": 65,
+  "units_sold": 10,
+  "selling_date": "2016-08-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 285,
+ "fields": {
+  "product": 75,
+  "units_sold": 4,
+  "selling_date": "2016-05-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 286,
+ "fields": {
+  "product": 58,
+  "units_sold": 14,
+  "selling_date": "2016-02-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 287,
+ "fields": {
+  "product": 55,
+  "units_sold": 4,
+  "selling_date": "2016-01-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 288,
+ "fields": {
+  "product": 29,
+  "units_sold": 20,
+  "selling_date": "2016-08-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 289,
+ "fields": {
+  "product": 51,
+  "units_sold": 16,
+  "selling_date": "2016-07-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 290,
+ "fields": {
+  "product": 13,
+  "units_sold": 0,
+  "selling_date": "2016-12-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 291,
+ "fields": {
+  "product": 26,
+  "units_sold": 2,
+  "selling_date": "2016-09-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 292,
+ "fields": {
+  "product": 56,
+  "units_sold": 7,
+  "selling_date": "2016-03-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 293,
+ "fields": {
+  "product": 97,
+  "units_sold": 12,
+  "selling_date": "2016-01-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 294,
+ "fields": {
+  "product": 93,
+  "units_sold": 1,
+  "selling_date": "2016-06-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 295,
+ "fields": {
+  "product": 28,
+  "units_sold": 5,
+  "selling_date": "2016-07-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 296,
+ "fields": {
+  "product": 56,
+  "units_sold": 18,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 297,
+ "fields": {
+  "product": 20,
+  "units_sold": 6,
+  "selling_date": "2016-05-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 298,
+ "fields": {
+  "product": 62,
+  "units_sold": 18,
+  "selling_date": "2016-12-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 299,
+ "fields": {
+  "product": 21,
+  "units_sold": 17,
+  "selling_date": "2016-09-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 300,
+ "fields": {
+  "product": 75,
+  "units_sold": 4,
+  "selling_date": "2016-05-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 301,
+ "fields": {
+  "product": 66,
+  "units_sold": 6,
+  "selling_date": "2016-08-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 302,
+ "fields": {
+  "product": 50,
+  "units_sold": 20,
+  "selling_date": "2016-02-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 303,
+ "fields": {
+  "product": 56,
+  "units_sold": 2,
+  "selling_date": "2016-01-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 304,
+ "fields": {
+  "product": 41,
+  "units_sold": 15,
+  "selling_date": "2016-09-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 305,
+ "fields": {
+  "product": 16,
+  "units_sold": 5,
+  "selling_date": "2016-07-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 306,
+ "fields": {
+  "product": 54,
+  "units_sold": 0,
+  "selling_date": "2016-03-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 307,
+ "fields": {
+  "product": 7,
+  "units_sold": 13,
+  "selling_date": "2016-12-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 308,
+ "fields": {
+  "product": 53,
+  "units_sold": 16,
+  "selling_date": "2016-09-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 309,
+ "fields": {
+  "product": 33,
+  "units_sold": 6,
+  "selling_date": "2016-12-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 310,
+ "fields": {
+  "product": 79,
+  "units_sold": 18,
+  "selling_date": "2016-03-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 311,
+ "fields": {
+  "product": 61,
+  "units_sold": 7,
+  "selling_date": "2016-05-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 312,
+ "fields": {
+  "product": 9,
+  "units_sold": 12,
+  "selling_date": "2016-12-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 313,
+ "fields": {
+  "product": 42,
+  "units_sold": 10,
+  "selling_date": "2016-10-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 314,
+ "fields": {
+  "product": 21,
+  "units_sold": 15,
+  "selling_date": "2016-07-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 315,
+ "fields": {
+  "product": 67,
+  "units_sold": 2,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 316,
+ "fields": {
+  "product": 15,
+  "units_sold": 6,
+  "selling_date": "2016-09-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 317,
+ "fields": {
+  "product": 13,
+  "units_sold": 17,
+  "selling_date": "2016-08-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 318,
+ "fields": {
+  "product": 62,
+  "units_sold": 18,
+  "selling_date": "2016-08-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 319,
+ "fields": {
+  "product": 27,
+  "units_sold": 5,
+  "selling_date": "2016-05-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 320,
+ "fields": {
+  "product": 77,
+  "units_sold": 5,
+  "selling_date": "2016-12-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 321,
+ "fields": {
+  "product": 55,
+  "units_sold": 2,
+  "selling_date": "2016-10-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 322,
+ "fields": {
+  "product": 18,
+  "units_sold": 18,
+  "selling_date": "2016-08-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 323,
+ "fields": {
+  "product": 34,
+  "units_sold": 1,
+  "selling_date": "2016-08-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 324,
+ "fields": {
+  "product": 90,
+  "units_sold": 18,
+  "selling_date": "2016-03-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 325,
+ "fields": {
+  "product": 32,
+  "units_sold": 2,
+  "selling_date": "2016-09-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 326,
+ "fields": {
+  "product": 95,
+  "units_sold": 0,
+  "selling_date": "2016-11-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 327,
+ "fields": {
+  "product": 49,
+  "units_sold": 7,
+  "selling_date": "2016-09-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 328,
+ "fields": {
+  "product": 92,
+  "units_sold": 3,
+  "selling_date": "2016-10-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 329,
+ "fields": {
+  "product": 73,
+  "units_sold": 20,
+  "selling_date": "2016-08-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 330,
+ "fields": {
+  "product": 34,
+  "units_sold": 13,
+  "selling_date": "2016-06-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 331,
+ "fields": {
+  "product": 68,
+  "units_sold": 3,
+  "selling_date": "2016-03-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 332,
+ "fields": {
+  "product": 10,
+  "units_sold": 6,
+  "selling_date": "2016-01-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 333,
+ "fields": {
+  "product": 1,
+  "units_sold": 13,
+  "selling_date": "2016-12-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 334,
+ "fields": {
+  "product": 25,
+  "units_sold": 19,
+  "selling_date": "2016-10-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 335,
+ "fields": {
+  "product": 92,
+  "units_sold": 3,
+  "selling_date": "2016-04-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 336,
+ "fields": {
+  "product": 46,
+  "units_sold": 1,
+  "selling_date": "2016-05-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 337,
+ "fields": {
+  "product": 2,
+  "units_sold": 10,
+  "selling_date": "2016-07-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 338,
+ "fields": {
+  "product": 44,
+  "units_sold": 12,
+  "selling_date": "2016-03-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 339,
+ "fields": {
+  "product": 21,
+  "units_sold": 15,
+  "selling_date": "2016-02-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 340,
+ "fields": {
+  "product": 24,
+  "units_sold": 14,
+  "selling_date": "2016-08-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 341,
+ "fields": {
+  "product": 87,
+  "units_sold": 18,
+  "selling_date": "2016-03-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 342,
+ "fields": {
+  "product": 1,
+  "units_sold": 6,
+  "selling_date": "2016-05-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 343,
+ "fields": {
+  "product": 1,
+  "units_sold": 1,
+  "selling_date": "2016-03-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 344,
+ "fields": {
+  "product": 14,
+  "units_sold": 10,
+  "selling_date": "2016-04-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 345,
+ "fields": {
+  "product": 59,
+  "units_sold": 9,
+  "selling_date": "2016-09-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 346,
+ "fields": {
+  "product": 84,
+  "units_sold": 18,
+  "selling_date": "2016-11-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 347,
+ "fields": {
+  "product": 88,
+  "units_sold": 20,
+  "selling_date": "2016-10-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 348,
+ "fields": {
+  "product": 26,
+  "units_sold": 14,
+  "selling_date": "2016-07-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 349,
+ "fields": {
+  "product": 49,
+  "units_sold": 11,
+  "selling_date": "2016-04-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 350,
+ "fields": {
+  "product": 44,
+  "units_sold": 6,
+  "selling_date": "2016-10-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 351,
+ "fields": {
+  "product": 52,
+  "units_sold": 14,
+  "selling_date": "2016-07-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 352,
+ "fields": {
+  "product": 8,
+  "units_sold": 9,
+  "selling_date": "2016-08-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 353,
+ "fields": {
+  "product": 47,
+  "units_sold": 8,
+  "selling_date": "2016-08-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 354,
+ "fields": {
+  "product": 83,
+  "units_sold": 8,
+  "selling_date": "2016-01-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 355,
+ "fields": {
+  "product": 72,
+  "units_sold": 16,
+  "selling_date": "2016-04-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 356,
+ "fields": {
+  "product": 19,
+  "units_sold": 18,
+  "selling_date": "2016-06-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 357,
+ "fields": {
+  "product": 29,
+  "units_sold": 20,
+  "selling_date": "2016-02-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 358,
+ "fields": {
+  "product": 48,
+  "units_sold": 2,
+  "selling_date": "2016-08-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 359,
+ "fields": {
+  "product": 33,
+  "units_sold": 17,
+  "selling_date": "2016-01-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 360,
+ "fields": {
+  "product": 28,
+  "units_sold": 13,
+  "selling_date": "2016-06-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 361,
+ "fields": {
+  "product": 42,
+  "units_sold": 11,
+  "selling_date": "2016-12-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 362,
+ "fields": {
+  "product": 17,
+  "units_sold": 4,
+  "selling_date": "2016-07-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 363,
+ "fields": {
+  "product": 13,
+  "units_sold": 7,
+  "selling_date": "2016-06-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 364,
+ "fields": {
+  "product": 96,
+  "units_sold": 5,
+  "selling_date": "2016-12-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 365,
+ "fields": {
+  "product": 98,
+  "units_sold": 0,
+  "selling_date": "2016-01-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 366,
+ "fields": {
+  "product": 25,
+  "units_sold": 19,
+  "selling_date": "2016-04-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 367,
+ "fields": {
+  "product": 12,
+  "units_sold": 2,
+  "selling_date": "2016-01-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 368,
+ "fields": {
+  "product": 9,
+  "units_sold": 19,
+  "selling_date": "2016-05-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 369,
+ "fields": {
+  "product": 55,
+  "units_sold": 4,
+  "selling_date": "2016-06-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 370,
+ "fields": {
+  "product": 4,
+  "units_sold": 5,
+  "selling_date": "2016-03-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 371,
+ "fields": {
+  "product": 50,
+  "units_sold": 4,
+  "selling_date": "2016-01-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 372,
+ "fields": {
+  "product": 5,
+  "units_sold": 5,
+  "selling_date": "2016-12-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 373,
+ "fields": {
+  "product": 90,
+  "units_sold": 7,
+  "selling_date": "2016-07-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 374,
+ "fields": {
+  "product": 44,
+  "units_sold": 12,
+  "selling_date": "2016-11-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 375,
+ "fields": {
+  "product": 62,
+  "units_sold": 12,
+  "selling_date": "2016-02-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 376,
+ "fields": {
+  "product": 7,
+  "units_sold": 2,
+  "selling_date": "2016-12-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 377,
+ "fields": {
+  "product": 29,
+  "units_sold": 15,
+  "selling_date": "2016-12-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 378,
+ "fields": {
+  "product": 22,
+  "units_sold": 10,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 379,
+ "fields": {
+  "product": 31,
+  "units_sold": 5,
+  "selling_date": "2016-08-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 380,
+ "fields": {
+  "product": 15,
+  "units_sold": 18,
+  "selling_date": "2016-08-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 381,
+ "fields": {
+  "product": 69,
+  "units_sold": 4,
+  "selling_date": "2016-02-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 382,
+ "fields": {
+  "product": 97,
+  "units_sold": 18,
+  "selling_date": "2016-01-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 383,
+ "fields": {
+  "product": 31,
+  "units_sold": 19,
+  "selling_date": "2016-05-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 384,
+ "fields": {
+  "product": 76,
+  "units_sold": 6,
+  "selling_date": "2016-06-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 385,
+ "fields": {
+  "product": 20,
+  "units_sold": 11,
+  "selling_date": "2016-01-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 386,
+ "fields": {
+  "product": 64,
+  "units_sold": 4,
+  "selling_date": "2016-12-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 387,
+ "fields": {
+  "product": 93,
+  "units_sold": 12,
+  "selling_date": "2016-04-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 388,
+ "fields": {
+  "product": 30,
+  "units_sold": 19,
+  "selling_date": "2016-02-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 389,
+ "fields": {
+  "product": 53,
+  "units_sold": 11,
+  "selling_date": "2016-06-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 390,
+ "fields": {
+  "product": 98,
+  "units_sold": 7,
+  "selling_date": "2016-05-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 391,
+ "fields": {
+  "product": 26,
+  "units_sold": 7,
+  "selling_date": "2016-09-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 392,
+ "fields": {
+  "product": 48,
+  "units_sold": 11,
+  "selling_date": "2016-09-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 393,
+ "fields": {
+  "product": 43,
+  "units_sold": 10,
+  "selling_date": "2016-10-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 394,
+ "fields": {
+  "product": 93,
+  "units_sold": 0,
+  "selling_date": "2016-07-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 395,
+ "fields": {
+  "product": 73,
+  "units_sold": 2,
+  "selling_date": "2016-04-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 396,
+ "fields": {
+  "product": 35,
+  "units_sold": 1,
+  "selling_date": "2016-01-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 397,
+ "fields": {
+  "product": 16,
+  "units_sold": 5,
+  "selling_date": "2016-10-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 398,
+ "fields": {
+  "product": 91,
+  "units_sold": 16,
+  "selling_date": "2016-09-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 399,
+ "fields": {
+  "product": 41,
+  "units_sold": 2,
+  "selling_date": "2016-07-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 400,
+ "fields": {
+  "product": 100,
+  "units_sold": 5,
+  "selling_date": "2016-05-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 401,
+ "fields": {
+  "product": 21,
+  "units_sold": 6,
+  "selling_date": "2016-01-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 402,
+ "fields": {
+  "product": 50,
+  "units_sold": 20,
+  "selling_date": "2016-05-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 403,
+ "fields": {
+  "product": 11,
+  "units_sold": 5,
+  "selling_date": "2016-07-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 404,
+ "fields": {
+  "product": 33,
+  "units_sold": 11,
+  "selling_date": "2016-05-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 405,
+ "fields": {
+  "product": 82,
+  "units_sold": 17,
+  "selling_date": "2016-04-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 406,
+ "fields": {
+  "product": 43,
+  "units_sold": 3,
+  "selling_date": "2016-04-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 407,
+ "fields": {
+  "product": 40,
+  "units_sold": 12,
+  "selling_date": "2016-10-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 408,
+ "fields": {
+  "product": 89,
+  "units_sold": 10,
+  "selling_date": "2016-04-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 409,
+ "fields": {
+  "product": 15,
+  "units_sold": 2,
+  "selling_date": "2016-12-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 410,
+ "fields": {
+  "product": 72,
+  "units_sold": 17,
+  "selling_date": "2016-05-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 411,
+ "fields": {
+  "product": 74,
+  "units_sold": 18,
+  "selling_date": "2016-09-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 412,
+ "fields": {
+  "product": 60,
+  "units_sold": 7,
+  "selling_date": "2016-12-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 413,
+ "fields": {
+  "product": 5,
+  "units_sold": 3,
+  "selling_date": "2016-10-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 414,
+ "fields": {
+  "product": 25,
+  "units_sold": 11,
+  "selling_date": "2016-11-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 415,
+ "fields": {
+  "product": 64,
+  "units_sold": 8,
+  "selling_date": "2016-07-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 416,
+ "fields": {
+  "product": 66,
+  "units_sold": 0,
+  "selling_date": "2016-09-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 417,
+ "fields": {
+  "product": 18,
+  "units_sold": 2,
+  "selling_date": "2016-10-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 418,
+ "fields": {
+  "product": 57,
+  "units_sold": 12,
+  "selling_date": "2016-01-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 419,
+ "fields": {
+  "product": 51,
+  "units_sold": 6,
+  "selling_date": "2016-07-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 420,
+ "fields": {
+  "product": 25,
+  "units_sold": 2,
+  "selling_date": "2016-12-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 421,
+ "fields": {
+  "product": 78,
+  "units_sold": 4,
+  "selling_date": "2016-11-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 422,
+ "fields": {
+  "product": 76,
+  "units_sold": 0,
+  "selling_date": "2016-01-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 423,
+ "fields": {
+  "product": 71,
+  "units_sold": 7,
+  "selling_date": "2016-10-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 424,
+ "fields": {
+  "product": 95,
+  "units_sold": 8,
+  "selling_date": "2016-05-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 425,
+ "fields": {
+  "product": 77,
+  "units_sold": 20,
+  "selling_date": "2016-10-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 426,
+ "fields": {
+  "product": 71,
+  "units_sold": 4,
+  "selling_date": "2016-12-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 427,
+ "fields": {
+  "product": 35,
+  "units_sold": 4,
+  "selling_date": "2016-08-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 428,
+ "fields": {
+  "product": 10,
+  "units_sold": 8,
+  "selling_date": "2016-06-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 429,
+ "fields": {
+  "product": 84,
+  "units_sold": 16,
+  "selling_date": "2016-06-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 430,
+ "fields": {
+  "product": 39,
+  "units_sold": 14,
+  "selling_date": "2016-11-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 431,
+ "fields": {
+  "product": 12,
+  "units_sold": 3,
+  "selling_date": "2016-07-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 432,
+ "fields": {
+  "product": 84,
+  "units_sold": 3,
+  "selling_date": "2016-03-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 433,
+ "fields": {
+  "product": 32,
+  "units_sold": 11,
+  "selling_date": "2016-01-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 434,
+ "fields": {
+  "product": 100,
+  "units_sold": 10,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 435,
+ "fields": {
+  "product": 9,
+  "units_sold": 1,
+  "selling_date": "2016-04-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 436,
+ "fields": {
+  "product": 22,
+  "units_sold": 14,
+  "selling_date": "2016-11-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 437,
+ "fields": {
+  "product": 99,
+  "units_sold": 18,
+  "selling_date": "2016-07-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 438,
+ "fields": {
+  "product": 95,
+  "units_sold": 5,
+  "selling_date": "2016-12-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 439,
+ "fields": {
+  "product": 94,
+  "units_sold": 3,
+  "selling_date": "2016-12-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 440,
+ "fields": {
+  "product": 61,
+  "units_sold": 13,
+  "selling_date": "2016-03-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 441,
+ "fields": {
+  "product": 43,
+  "units_sold": 3,
+  "selling_date": "2016-08-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 442,
+ "fields": {
+  "product": 1,
+  "units_sold": 14,
+  "selling_date": "2016-11-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 443,
+ "fields": {
+  "product": 31,
+  "units_sold": 8,
+  "selling_date": "2016-02-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 444,
+ "fields": {
+  "product": 79,
+  "units_sold": 11,
+  "selling_date": "2016-10-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 445,
+ "fields": {
+  "product": 85,
+  "units_sold": 3,
+  "selling_date": "2016-01-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 446,
+ "fields": {
+  "product": 99,
+  "units_sold": 5,
+  "selling_date": "2016-04-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 447,
+ "fields": {
+  "product": 42,
+  "units_sold": 0,
+  "selling_date": "2016-12-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 448,
+ "fields": {
+  "product": 80,
+  "units_sold": 10,
+  "selling_date": "2016-08-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 449,
+ "fields": {
+  "product": 54,
+  "units_sold": 2,
+  "selling_date": "2016-02-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 450,
+ "fields": {
+  "product": 77,
+  "units_sold": 1,
+  "selling_date": "2016-11-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 451,
+ "fields": {
+  "product": 26,
+  "units_sold": 9,
+  "selling_date": "2016-02-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 452,
+ "fields": {
+  "product": 5,
+  "units_sold": 14,
+  "selling_date": "2016-11-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 453,
+ "fields": {
+  "product": 42,
+  "units_sold": 17,
+  "selling_date": "2016-06-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 454,
+ "fields": {
+  "product": 2,
+  "units_sold": 11,
+  "selling_date": "2016-12-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 455,
+ "fields": {
+  "product": 46,
+  "units_sold": 19,
+  "selling_date": "2016-06-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 456,
+ "fields": {
+  "product": 54,
+  "units_sold": 20,
+  "selling_date": "2016-05-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 457,
+ "fields": {
+  "product": 74,
+  "units_sold": 19,
+  "selling_date": "2016-12-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 458,
+ "fields": {
+  "product": 4,
+  "units_sold": 16,
+  "selling_date": "2016-06-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 459,
+ "fields": {
+  "product": 69,
+  "units_sold": 14,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 460,
+ "fields": {
+  "product": 97,
+  "units_sold": 11,
+  "selling_date": "2016-04-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 461,
+ "fields": {
+  "product": 73,
+  "units_sold": 3,
+  "selling_date": "2016-03-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 462,
+ "fields": {
+  "product": 71,
+  "units_sold": 17,
+  "selling_date": "2016-04-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 463,
+ "fields": {
+  "product": 76,
+  "units_sold": 4,
+  "selling_date": "2016-06-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 464,
+ "fields": {
+  "product": 57,
+  "units_sold": 9,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 465,
+ "fields": {
+  "product": 77,
+  "units_sold": 15,
+  "selling_date": "2016-09-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 466,
+ "fields": {
+  "product": 65,
+  "units_sold": 17,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 467,
+ "fields": {
+  "product": 26,
+  "units_sold": 3,
+  "selling_date": "2016-05-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 468,
+ "fields": {
+  "product": 79,
+  "units_sold": 1,
+  "selling_date": "2016-07-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 469,
+ "fields": {
+  "product": 98,
+  "units_sold": 15,
+  "selling_date": "2016-04-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 470,
+ "fields": {
+  "product": 73,
+  "units_sold": 2,
+  "selling_date": "2016-06-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 471,
+ "fields": {
+  "product": 92,
+  "units_sold": 10,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 472,
+ "fields": {
+  "product": 20,
+  "units_sold": 13,
+  "selling_date": "2016-07-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 473,
+ "fields": {
+  "product": 1,
+  "units_sold": 14,
+  "selling_date": "2016-02-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 474,
+ "fields": {
+  "product": 34,
+  "units_sold": 7,
+  "selling_date": "2016-05-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 475,
+ "fields": {
+  "product": 23,
+  "units_sold": 11,
+  "selling_date": "2016-11-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 476,
+ "fields": {
+  "product": 91,
+  "units_sold": 2,
+  "selling_date": "2016-10-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 477,
+ "fields": {
+  "product": 12,
+  "units_sold": 7,
+  "selling_date": "2016-06-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 478,
+ "fields": {
+  "product": 69,
+  "units_sold": 19,
+  "selling_date": "2016-11-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 479,
+ "fields": {
+  "product": 14,
+  "units_sold": 17,
+  "selling_date": "2016-03-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 480,
+ "fields": {
+  "product": 4,
+  "units_sold": 4,
+  "selling_date": "2016-05-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 481,
+ "fields": {
+  "product": 1,
+  "units_sold": 16,
+  "selling_date": "2016-07-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 482,
+ "fields": {
+  "product": 74,
+  "units_sold": 8,
+  "selling_date": "2016-05-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 483,
+ "fields": {
+  "product": 1,
+  "units_sold": 2,
+  "selling_date": "2016-11-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 484,
+ "fields": {
+  "product": 89,
+  "units_sold": 5,
+  "selling_date": "2016-08-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 485,
+ "fields": {
+  "product": 6,
+  "units_sold": 20,
+  "selling_date": "2016-12-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 486,
+ "fields": {
+  "product": 89,
+  "units_sold": 2,
+  "selling_date": "2016-09-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 487,
+ "fields": {
+  "product": 46,
+  "units_sold": 1,
+  "selling_date": "2016-09-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 488,
+ "fields": {
+  "product": 87,
+  "units_sold": 14,
+  "selling_date": "2016-09-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 489,
+ "fields": {
+  "product": 50,
+  "units_sold": 2,
+  "selling_date": "2016-12-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 490,
+ "fields": {
+  "product": 93,
+  "units_sold": 6,
+  "selling_date": "2016-11-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 491,
+ "fields": {
+  "product": 50,
+  "units_sold": 5,
+  "selling_date": "2016-07-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 492,
+ "fields": {
+  "product": 31,
+  "units_sold": 6,
+  "selling_date": "2016-01-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 493,
+ "fields": {
+  "product": 10,
+  "units_sold": 11,
+  "selling_date": "2016-02-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 494,
+ "fields": {
+  "product": 18,
+  "units_sold": 4,
+  "selling_date": "2016-09-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 495,
+ "fields": {
+  "product": 21,
+  "units_sold": 0,
+  "selling_date": "2016-01-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 496,
+ "fields": {
+  "product": 11,
+  "units_sold": 1,
+  "selling_date": "2016-06-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 497,
+ "fields": {
+  "product": 3,
+  "units_sold": 1,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 498,
+ "fields": {
+  "product": 27,
+  "units_sold": 6,
+  "selling_date": "2016-11-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 499,
+ "fields": {
+  "product": 22,
+  "units_sold": 1,
+  "selling_date": "2016-03-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 500,
+ "fields": {
+  "product": 97,
+  "units_sold": 13,
+  "selling_date": "2016-09-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 501,
+ "fields": {
+  "product": 24,
+  "units_sold": 5,
+  "selling_date": "2016-05-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 502,
+ "fields": {
+  "product": 24,
+  "units_sold": 1,
+  "selling_date": "2016-02-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 503,
+ "fields": {
+  "product": 65,
+  "units_sold": 11,
+  "selling_date": "2016-03-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 504,
+ "fields": {
+  "product": 93,
+  "units_sold": 7,
+  "selling_date": "2016-05-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 505,
+ "fields": {
+  "product": 82,
+  "units_sold": 12,
+  "selling_date": "2016-02-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 506,
+ "fields": {
+  "product": 27,
+  "units_sold": 15,
+  "selling_date": "2016-10-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 507,
+ "fields": {
+  "product": 89,
+  "units_sold": 6,
+  "selling_date": "2016-08-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 508,
+ "fields": {
+  "product": 96,
+  "units_sold": 18,
+  "selling_date": "2016-05-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 509,
+ "fields": {
+  "product": 94,
+  "units_sold": 12,
+  "selling_date": "2016-03-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 510,
+ "fields": {
+  "product": 38,
+  "units_sold": 17,
+  "selling_date": "2016-11-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 511,
+ "fields": {
+  "product": 52,
+  "units_sold": 20,
+  "selling_date": "2016-05-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 512,
+ "fields": {
+  "product": 89,
+  "units_sold": 10,
+  "selling_date": "2016-10-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 513,
+ "fields": {
+  "product": 26,
+  "units_sold": 12,
+  "selling_date": "2016-08-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 514,
+ "fields": {
+  "product": 46,
+  "units_sold": 3,
+  "selling_date": "2016-12-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 515,
+ "fields": {
+  "product": 4,
+  "units_sold": 3,
+  "selling_date": "2016-07-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 516,
+ "fields": {
+  "product": 63,
+  "units_sold": 14,
+  "selling_date": "2016-02-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 517,
+ "fields": {
+  "product": 78,
+  "units_sold": 5,
+  "selling_date": "2016-05-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 518,
+ "fields": {
+  "product": 61,
+  "units_sold": 6,
+  "selling_date": "2016-01-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 519,
+ "fields": {
+  "product": 54,
+  "units_sold": 0,
+  "selling_date": "2016-12-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 520,
+ "fields": {
+  "product": 44,
+  "units_sold": 20,
+  "selling_date": "2016-12-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 521,
+ "fields": {
+  "product": 41,
+  "units_sold": 1,
+  "selling_date": "2016-10-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 522,
+ "fields": {
+  "product": 3,
+  "units_sold": 2,
+  "selling_date": "2016-09-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 523,
+ "fields": {
+  "product": 12,
+  "units_sold": 18,
+  "selling_date": "2016-10-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 524,
+ "fields": {
+  "product": 93,
+  "units_sold": 3,
+  "selling_date": "2016-02-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 525,
+ "fields": {
+  "product": 31,
+  "units_sold": 14,
+  "selling_date": "2016-04-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 526,
+ "fields": {
+  "product": 60,
+  "units_sold": 10,
+  "selling_date": "2016-11-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 527,
+ "fields": {
+  "product": 65,
+  "units_sold": 13,
+  "selling_date": "2016-12-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 528,
+ "fields": {
+  "product": 63,
+  "units_sold": 2,
+  "selling_date": "2016-11-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 529,
+ "fields": {
+  "product": 10,
+  "units_sold": 3,
+  "selling_date": "2016-08-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 530,
+ "fields": {
+  "product": 76,
+  "units_sold": 17,
+  "selling_date": "2016-07-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 531,
+ "fields": {
+  "product": 8,
+  "units_sold": 4,
+  "selling_date": "2016-11-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 532,
+ "fields": {
+  "product": 29,
+  "units_sold": 18,
+  "selling_date": "2016-04-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 533,
+ "fields": {
+  "product": 78,
+  "units_sold": 11,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 534,
+ "fields": {
+  "product": 25,
+  "units_sold": 19,
+  "selling_date": "2016-08-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 535,
+ "fields": {
+  "product": 28,
+  "units_sold": 18,
+  "selling_date": "2016-03-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 536,
+ "fields": {
+  "product": 99,
+  "units_sold": 19,
+  "selling_date": "2016-04-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 537,
+ "fields": {
+  "product": 94,
+  "units_sold": 3,
+  "selling_date": "2016-03-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 538,
+ "fields": {
+  "product": 45,
+  "units_sold": 9,
+  "selling_date": "2016-02-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 539,
+ "fields": {
+  "product": 27,
+  "units_sold": 0,
+  "selling_date": "2016-10-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 540,
+ "fields": {
+  "product": 23,
+  "units_sold": 1,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 541,
+ "fields": {
+  "product": 72,
+  "units_sold": 7,
+  "selling_date": "2016-11-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 542,
+ "fields": {
+  "product": 38,
+  "units_sold": 1,
+  "selling_date": "2016-06-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 543,
+ "fields": {
+  "product": 74,
+  "units_sold": 9,
+  "selling_date": "2016-03-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 544,
+ "fields": {
+  "product": 81,
+  "units_sold": 13,
+  "selling_date": "2016-05-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 545,
+ "fields": {
+  "product": 72,
+  "units_sold": 11,
+  "selling_date": "2016-05-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 546,
+ "fields": {
+  "product": 7,
+  "units_sold": 8,
+  "selling_date": "2016-03-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 547,
+ "fields": {
+  "product": 8,
+  "units_sold": 11,
+  "selling_date": "2016-05-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 548,
+ "fields": {
+  "product": 96,
+  "units_sold": 12,
+  "selling_date": "2016-06-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 549,
+ "fields": {
+  "product": 29,
+  "units_sold": 20,
+  "selling_date": "2016-10-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 550,
+ "fields": {
+  "product": 70,
+  "units_sold": 15,
+  "selling_date": "2016-04-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 551,
+ "fields": {
+  "product": 34,
+  "units_sold": 4,
+  "selling_date": "2016-03-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 552,
+ "fields": {
+  "product": 60,
+  "units_sold": 8,
+  "selling_date": "2016-09-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 553,
+ "fields": {
+  "product": 41,
+  "units_sold": 7,
+  "selling_date": "2016-02-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 554,
+ "fields": {
+  "product": 55,
+  "units_sold": 5,
+  "selling_date": "2016-01-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 555,
+ "fields": {
+  "product": 95,
+  "units_sold": 8,
+  "selling_date": "2016-05-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 556,
+ "fields": {
+  "product": 71,
+  "units_sold": 16,
+  "selling_date": "2016-04-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 557,
+ "fields": {
+  "product": 52,
+  "units_sold": 9,
+  "selling_date": "2016-09-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 558,
+ "fields": {
+  "product": 25,
+  "units_sold": 11,
+  "selling_date": "2016-08-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 559,
+ "fields": {
+  "product": 78,
+  "units_sold": 15,
+  "selling_date": "2016-06-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 560,
+ "fields": {
+  "product": 74,
+  "units_sold": 14,
+  "selling_date": "2016-07-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 561,
+ "fields": {
+  "product": 74,
+  "units_sold": 1,
+  "selling_date": "2016-11-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 562,
+ "fields": {
+  "product": 7,
+  "units_sold": 0,
+  "selling_date": "2016-06-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 563,
+ "fields": {
+  "product": 89,
+  "units_sold": 17,
+  "selling_date": "2016-06-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 564,
+ "fields": {
+  "product": 67,
+  "units_sold": 1,
+  "selling_date": "2016-08-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 565,
+ "fields": {
+  "product": 55,
+  "units_sold": 3,
+  "selling_date": "2016-09-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 566,
+ "fields": {
+  "product": 87,
+  "units_sold": 14,
+  "selling_date": "2016-05-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 567,
+ "fields": {
+  "product": 6,
+  "units_sold": 6,
+  "selling_date": "2016-08-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 568,
+ "fields": {
+  "product": 15,
+  "units_sold": 16,
+  "selling_date": "2016-09-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 569,
+ "fields": {
+  "product": 90,
+  "units_sold": 9,
+  "selling_date": "2016-10-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 570,
+ "fields": {
+  "product": 75,
+  "units_sold": 17,
+  "selling_date": "2016-04-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 571,
+ "fields": {
+  "product": 42,
+  "units_sold": 15,
+  "selling_date": "2016-05-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 572,
+ "fields": {
+  "product": 22,
+  "units_sold": 9,
+  "selling_date": "2016-07-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 573,
+ "fields": {
+  "product": 98,
+  "units_sold": 8,
+  "selling_date": "2016-08-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 574,
+ "fields": {
+  "product": 55,
+  "units_sold": 9,
+  "selling_date": "2016-05-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 575,
+ "fields": {
+  "product": 95,
+  "units_sold": 16,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 576,
+ "fields": {
+  "product": 33,
+  "units_sold": 13,
+  "selling_date": "2016-11-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 577,
+ "fields": {
+  "product": 90,
+  "units_sold": 8,
+  "selling_date": "2016-10-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 578,
+ "fields": {
+  "product": 37,
+  "units_sold": 8,
+  "selling_date": "2016-07-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 579,
+ "fields": {
+  "product": 89,
+  "units_sold": 15,
+  "selling_date": "2016-11-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 580,
+ "fields": {
+  "product": 67,
+  "units_sold": 9,
+  "selling_date": "2016-08-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 581,
+ "fields": {
+  "product": 83,
+  "units_sold": 0,
+  "selling_date": "2016-01-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 582,
+ "fields": {
+  "product": 13,
+  "units_sold": 4,
+  "selling_date": "2016-03-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 583,
+ "fields": {
+  "product": 69,
+  "units_sold": 5,
+  "selling_date": "2016-01-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 584,
+ "fields": {
+  "product": 76,
+  "units_sold": 7,
+  "selling_date": "2016-10-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 585,
+ "fields": {
+  "product": 41,
+  "units_sold": 14,
+  "selling_date": "2016-06-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 586,
+ "fields": {
+  "product": 65,
+  "units_sold": 2,
+  "selling_date": "2016-11-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 587,
+ "fields": {
+  "product": 66,
+  "units_sold": 19,
+  "selling_date": "2016-06-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 588,
+ "fields": {
+  "product": 27,
+  "units_sold": 2,
+  "selling_date": "2016-02-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 589,
+ "fields": {
+  "product": 15,
+  "units_sold": 1,
+  "selling_date": "2016-04-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 590,
+ "fields": {
+  "product": 76,
+  "units_sold": 13,
+  "selling_date": "2016-06-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 591,
+ "fields": {
+  "product": 77,
+  "units_sold": 5,
+  "selling_date": "2016-10-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 592,
+ "fields": {
+  "product": 12,
+  "units_sold": 9,
+  "selling_date": "2016-02-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 593,
+ "fields": {
+  "product": 22,
+  "units_sold": 5,
+  "selling_date": "2016-09-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 594,
+ "fields": {
+  "product": 59,
+  "units_sold": 5,
+  "selling_date": "2016-06-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 595,
+ "fields": {
+  "product": 30,
+  "units_sold": 11,
+  "selling_date": "2016-03-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 596,
+ "fields": {
+  "product": 94,
+  "units_sold": 2,
+  "selling_date": "2016-05-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 597,
+ "fields": {
+  "product": 63,
+  "units_sold": 13,
+  "selling_date": "2016-11-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 598,
+ "fields": {
+  "product": 1,
+  "units_sold": 19,
+  "selling_date": "2016-05-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 599,
+ "fields": {
+  "product": 68,
+  "units_sold": 14,
+  "selling_date": "2016-08-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 600,
+ "fields": {
+  "product": 65,
+  "units_sold": 4,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 601,
+ "fields": {
+  "product": 25,
+  "units_sold": 5,
+  "selling_date": "2016-05-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 602,
+ "fields": {
+  "product": 37,
+  "units_sold": 10,
+  "selling_date": "2016-12-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 603,
+ "fields": {
+  "product": 57,
+  "units_sold": 18,
+  "selling_date": "2016-10-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 604,
+ "fields": {
+  "product": 88,
+  "units_sold": 11,
+  "selling_date": "2016-12-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 605,
+ "fields": {
+  "product": 78,
+  "units_sold": 5,
+  "selling_date": "2016-02-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 606,
+ "fields": {
+  "product": 76,
+  "units_sold": 12,
+  "selling_date": "2016-11-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 607,
+ "fields": {
+  "product": 89,
+  "units_sold": 14,
+  "selling_date": "2016-06-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 608,
+ "fields": {
+  "product": 39,
+  "units_sold": 18,
+  "selling_date": "2016-03-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 609,
+ "fields": {
+  "product": 93,
+  "units_sold": 5,
+  "selling_date": "2016-12-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 610,
+ "fields": {
+  "product": 24,
+  "units_sold": 19,
+  "selling_date": "2016-09-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 611,
+ "fields": {
+  "product": 22,
+  "units_sold": 12,
+  "selling_date": "2016-08-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 612,
+ "fields": {
+  "product": 89,
+  "units_sold": 19,
+  "selling_date": "2016-09-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 613,
+ "fields": {
+  "product": 37,
+  "units_sold": 15,
+  "selling_date": "2016-08-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 614,
+ "fields": {
+  "product": 30,
+  "units_sold": 1,
+  "selling_date": "2016-04-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 615,
+ "fields": {
+  "product": 14,
+  "units_sold": 18,
+  "selling_date": "2016-06-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 616,
+ "fields": {
+  "product": 21,
+  "units_sold": 20,
+  "selling_date": "2016-04-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 617,
+ "fields": {
+  "product": 52,
+  "units_sold": 11,
+  "selling_date": "2016-08-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 618,
+ "fields": {
+  "product": 27,
+  "units_sold": 8,
+  "selling_date": "2016-07-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 619,
+ "fields": {
+  "product": 57,
+  "units_sold": 4,
+  "selling_date": "2016-09-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 620,
+ "fields": {
+  "product": 100,
+  "units_sold": 4,
+  "selling_date": "2016-08-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 621,
+ "fields": {
+  "product": 14,
+  "units_sold": 3,
+  "selling_date": "2016-12-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 622,
+ "fields": {
+  "product": 35,
+  "units_sold": 13,
+  "selling_date": "2016-04-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 623,
+ "fields": {
+  "product": 92,
+  "units_sold": 3,
+  "selling_date": "2016-11-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 624,
+ "fields": {
+  "product": 67,
+  "units_sold": 7,
+  "selling_date": "2016-09-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 625,
+ "fields": {
+  "product": 31,
+  "units_sold": 4,
+  "selling_date": "2016-04-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 626,
+ "fields": {
+  "product": 41,
+  "units_sold": 7,
+  "selling_date": "2016-07-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 627,
+ "fields": {
+  "product": 47,
+  "units_sold": 7,
+  "selling_date": "2016-08-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 628,
+ "fields": {
+  "product": 6,
+  "units_sold": 12,
+  "selling_date": "2016-04-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 629,
+ "fields": {
+  "product": 50,
+  "units_sold": 6,
+  "selling_date": "2016-06-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 630,
+ "fields": {
+  "product": 51,
+  "units_sold": 17,
+  "selling_date": "2016-12-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 631,
+ "fields": {
+  "product": 49,
+  "units_sold": 11,
+  "selling_date": "2016-05-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 632,
+ "fields": {
+  "product": 59,
+  "units_sold": 2,
+  "selling_date": "2016-02-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 633,
+ "fields": {
+  "product": 52,
+  "units_sold": 4,
+  "selling_date": "2016-10-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 634,
+ "fields": {
+  "product": 35,
+  "units_sold": 2,
+  "selling_date": "2016-06-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 635,
+ "fields": {
+  "product": 100,
+  "units_sold": 1,
+  "selling_date": "2016-05-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 636,
+ "fields": {
+  "product": 15,
+  "units_sold": 7,
+  "selling_date": "2016-03-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 637,
+ "fields": {
+  "product": 4,
+  "units_sold": 6,
+  "selling_date": "2016-11-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 638,
+ "fields": {
+  "product": 55,
+  "units_sold": 0,
+  "selling_date": "2016-08-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 639,
+ "fields": {
+  "product": 41,
+  "units_sold": 1,
+  "selling_date": "2016-06-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 640,
+ "fields": {
+  "product": 57,
+  "units_sold": 19,
+  "selling_date": "2016-09-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 641,
+ "fields": {
+  "product": 26,
+  "units_sold": 5,
+  "selling_date": "2016-08-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 642,
+ "fields": {
+  "product": 58,
+  "units_sold": 17,
+  "selling_date": "2016-12-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 643,
+ "fields": {
+  "product": 65,
+  "units_sold": 16,
+  "selling_date": "2016-02-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 644,
+ "fields": {
+  "product": 28,
+  "units_sold": 10,
+  "selling_date": "2016-06-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 645,
+ "fields": {
+  "product": 51,
+  "units_sold": 0,
+  "selling_date": "2016-07-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 646,
+ "fields": {
+  "product": 20,
+  "units_sold": 6,
+  "selling_date": "2016-02-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 647,
+ "fields": {
+  "product": 99,
+  "units_sold": 6,
+  "selling_date": "2016-06-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 648,
+ "fields": {
+  "product": 88,
+  "units_sold": 14,
+  "selling_date": "2016-05-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 649,
+ "fields": {
+  "product": 55,
+  "units_sold": 0,
+  "selling_date": "2016-01-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 650,
+ "fields": {
+  "product": 44,
+  "units_sold": 9,
+  "selling_date": "2016-11-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 651,
+ "fields": {
+  "product": 24,
+  "units_sold": 10,
+  "selling_date": "2016-02-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 652,
+ "fields": {
+  "product": 38,
+  "units_sold": 16,
+  "selling_date": "2016-10-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 653,
+ "fields": {
+  "product": 86,
+  "units_sold": 7,
+  "selling_date": "2016-07-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 654,
+ "fields": {
+  "product": 72,
+  "units_sold": 15,
+  "selling_date": "2016-08-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 655,
+ "fields": {
+  "product": 8,
+  "units_sold": 14,
+  "selling_date": "2016-08-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 656,
+ "fields": {
+  "product": 95,
+  "units_sold": 17,
+  "selling_date": "2016-08-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 657,
+ "fields": {
+  "product": 88,
+  "units_sold": 9,
+  "selling_date": "2016-06-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 658,
+ "fields": {
+  "product": 54,
+  "units_sold": 3,
+  "selling_date": "2016-06-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 659,
+ "fields": {
+  "product": 81,
+  "units_sold": 6,
+  "selling_date": "2016-05-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 660,
+ "fields": {
+  "product": 57,
+  "units_sold": 4,
+  "selling_date": "2016-04-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 661,
+ "fields": {
+  "product": 36,
+  "units_sold": 3,
+  "selling_date": "2016-07-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 662,
+ "fields": {
+  "product": 83,
+  "units_sold": 13,
+  "selling_date": "2016-11-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 663,
+ "fields": {
+  "product": 17,
+  "units_sold": 14,
+  "selling_date": "2016-10-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 664,
+ "fields": {
+  "product": 74,
+  "units_sold": 20,
+  "selling_date": "2016-11-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 665,
+ "fields": {
+  "product": 49,
+  "units_sold": 12,
+  "selling_date": "2016-01-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 666,
+ "fields": {
+  "product": 21,
+  "units_sold": 15,
+  "selling_date": "2016-06-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 667,
+ "fields": {
+  "product": 77,
+  "units_sold": 1,
+  "selling_date": "2016-04-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 668,
+ "fields": {
+  "product": 6,
+  "units_sold": 17,
+  "selling_date": "2016-02-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 669,
+ "fields": {
+  "product": 95,
+  "units_sold": 16,
+  "selling_date": "2016-07-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 670,
+ "fields": {
+  "product": 79,
+  "units_sold": 14,
+  "selling_date": "2016-06-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 671,
+ "fields": {
+  "product": 97,
+  "units_sold": 9,
+  "selling_date": "2016-05-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 672,
+ "fields": {
+  "product": 29,
+  "units_sold": 7,
+  "selling_date": "2016-08-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 673,
+ "fields": {
+  "product": 37,
+  "units_sold": 14,
+  "selling_date": "2016-07-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 674,
+ "fields": {
+  "product": 61,
+  "units_sold": 8,
+  "selling_date": "2016-03-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 675,
+ "fields": {
+  "product": 35,
+  "units_sold": 16,
+  "selling_date": "2016-04-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 676,
+ "fields": {
+  "product": 81,
+  "units_sold": 12,
+  "selling_date": "2016-03-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 677,
+ "fields": {
+  "product": 83,
+  "units_sold": 1,
+  "selling_date": "2016-12-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 678,
+ "fields": {
+  "product": 84,
+  "units_sold": 19,
+  "selling_date": "2016-08-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 679,
+ "fields": {
+  "product": 21,
+  "units_sold": 6,
+  "selling_date": "2016-11-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 680,
+ "fields": {
+  "product": 36,
+  "units_sold": 9,
+  "selling_date": "2016-09-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 681,
+ "fields": {
+  "product": 19,
+  "units_sold": 1,
+  "selling_date": "2016-08-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 682,
+ "fields": {
+  "product": 50,
+  "units_sold": 9,
+  "selling_date": "2016-11-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 683,
+ "fields": {
+  "product": 32,
+  "units_sold": 4,
+  "selling_date": "2016-04-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 684,
+ "fields": {
+  "product": 88,
+  "units_sold": 2,
+  "selling_date": "2016-08-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 685,
+ "fields": {
+  "product": 36,
+  "units_sold": 17,
+  "selling_date": "2016-06-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 686,
+ "fields": {
+  "product": 87,
+  "units_sold": 2,
+  "selling_date": "2016-03-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 687,
+ "fields": {
+  "product": 88,
+  "units_sold": 19,
+  "selling_date": "2016-12-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 688,
+ "fields": {
+  "product": 29,
+  "units_sold": 7,
+  "selling_date": "2016-05-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 689,
+ "fields": {
+  "product": 95,
+  "units_sold": 6,
+  "selling_date": "2016-11-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 690,
+ "fields": {
+  "product": 56,
+  "units_sold": 18,
+  "selling_date": "2016-12-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 691,
+ "fields": {
+  "product": 55,
+  "units_sold": 19,
+  "selling_date": "2016-09-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 692,
+ "fields": {
+  "product": 63,
+  "units_sold": 18,
+  "selling_date": "2016-02-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 693,
+ "fields": {
+  "product": 79,
+  "units_sold": 0,
+  "selling_date": "2016-07-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 694,
+ "fields": {
+  "product": 55,
+  "units_sold": 8,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 695,
+ "fields": {
+  "product": 13,
+  "units_sold": 11,
+  "selling_date": "2016-02-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 696,
+ "fields": {
+  "product": 72,
+  "units_sold": 1,
+  "selling_date": "2016-08-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 697,
+ "fields": {
+  "product": 87,
+  "units_sold": 3,
+  "selling_date": "2016-05-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 698,
+ "fields": {
+  "product": 64,
+  "units_sold": 12,
+  "selling_date": "2016-11-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 699,
+ "fields": {
+  "product": 75,
+  "units_sold": 17,
+  "selling_date": "2016-12-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 700,
+ "fields": {
+  "product": 21,
+  "units_sold": 18,
+  "selling_date": "2016-10-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 701,
+ "fields": {
+  "product": 14,
+  "units_sold": 0,
+  "selling_date": "2016-12-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 702,
+ "fields": {
+  "product": 69,
+  "units_sold": 10,
+  "selling_date": "2016-11-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 703,
+ "fields": {
+  "product": 60,
+  "units_sold": 0,
+  "selling_date": "2016-11-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 704,
+ "fields": {
+  "product": 42,
+  "units_sold": 16,
+  "selling_date": "2016-04-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 705,
+ "fields": {
+  "product": 4,
+  "units_sold": 17,
+  "selling_date": "2016-04-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 706,
+ "fields": {
+  "product": 35,
+  "units_sold": 14,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 707,
+ "fields": {
+  "product": 29,
+  "units_sold": 8,
+  "selling_date": "2016-11-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 708,
+ "fields": {
+  "product": 61,
+  "units_sold": 6,
+  "selling_date": "2016-10-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 709,
+ "fields": {
+  "product": 85,
+  "units_sold": 9,
+  "selling_date": "2016-11-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 710,
+ "fields": {
+  "product": 43,
+  "units_sold": 6,
+  "selling_date": "2016-09-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 711,
+ "fields": {
+  "product": 67,
+  "units_sold": 18,
+  "selling_date": "2016-08-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 712,
+ "fields": {
+  "product": 51,
+  "units_sold": 5,
+  "selling_date": "2016-04-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 713,
+ "fields": {
+  "product": 58,
+  "units_sold": 13,
+  "selling_date": "2016-01-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 714,
+ "fields": {
+  "product": 93,
+  "units_sold": 12,
+  "selling_date": "2016-04-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 715,
+ "fields": {
+  "product": 99,
+  "units_sold": 0,
+  "selling_date": "2016-04-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 716,
+ "fields": {
+  "product": 43,
+  "units_sold": 6,
+  "selling_date": "2016-07-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 717,
+ "fields": {
+  "product": 90,
+  "units_sold": 12,
+  "selling_date": "2016-09-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 718,
+ "fields": {
+  "product": 71,
+  "units_sold": 20,
+  "selling_date": "2016-07-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 719,
+ "fields": {
+  "product": 90,
+  "units_sold": 14,
+  "selling_date": "2016-05-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 720,
+ "fields": {
+  "product": 57,
+  "units_sold": 14,
+  "selling_date": "2016-03-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 721,
+ "fields": {
+  "product": 4,
+  "units_sold": 8,
+  "selling_date": "2016-06-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 722,
+ "fields": {
+  "product": 81,
+  "units_sold": 7,
+  "selling_date": "2016-10-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 723,
+ "fields": {
+  "product": 33,
+  "units_sold": 18,
+  "selling_date": "2016-07-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 724,
+ "fields": {
+  "product": 9,
+  "units_sold": 7,
+  "selling_date": "2016-07-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 725,
+ "fields": {
+  "product": 38,
+  "units_sold": 5,
+  "selling_date": "2016-07-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 726,
+ "fields": {
+  "product": 45,
+  "units_sold": 15,
+  "selling_date": "2016-02-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 727,
+ "fields": {
+  "product": 57,
+  "units_sold": 14,
+  "selling_date": "2016-12-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 728,
+ "fields": {
+  "product": 100,
+  "units_sold": 2,
+  "selling_date": "2016-12-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 729,
+ "fields": {
+  "product": 84,
+  "units_sold": 17,
+  "selling_date": "2016-09-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 730,
+ "fields": {
+  "product": 100,
+  "units_sold": 3,
+  "selling_date": "2016-06-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 731,
+ "fields": {
+  "product": 48,
+  "units_sold": 14,
+  "selling_date": "2016-12-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 732,
+ "fields": {
+  "product": 15,
+  "units_sold": 20,
+  "selling_date": "2016-08-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 733,
+ "fields": {
+  "product": 76,
+  "units_sold": 9,
+  "selling_date": "2016-07-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 734,
+ "fields": {
+  "product": 70,
+  "units_sold": 7,
+  "selling_date": "2016-03-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 735,
+ "fields": {
+  "product": 68,
+  "units_sold": 5,
+  "selling_date": "2016-01-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 736,
+ "fields": {
+  "product": 55,
+  "units_sold": 14,
+  "selling_date": "2016-07-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 737,
+ "fields": {
+  "product": 78,
+  "units_sold": 20,
+  "selling_date": "2016-04-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 738,
+ "fields": {
+  "product": 55,
+  "units_sold": 10,
+  "selling_date": "2016-10-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 739,
+ "fields": {
+  "product": 36,
+  "units_sold": 12,
+  "selling_date": "2016-10-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 740,
+ "fields": {
+  "product": 46,
+  "units_sold": 4,
+  "selling_date": "2016-01-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 741,
+ "fields": {
+  "product": 96,
+  "units_sold": 18,
+  "selling_date": "2016-08-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 742,
+ "fields": {
+  "product": 24,
+  "units_sold": 3,
+  "selling_date": "2016-05-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 743,
+ "fields": {
+  "product": 56,
+  "units_sold": 12,
+  "selling_date": "2016-03-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 744,
+ "fields": {
+  "product": 90,
+  "units_sold": 20,
+  "selling_date": "2016-03-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 745,
+ "fields": {
+  "product": 25,
+  "units_sold": 3,
+  "selling_date": "2016-09-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 746,
+ "fields": {
+  "product": 31,
+  "units_sold": 4,
+  "selling_date": "2016-03-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 747,
+ "fields": {
+  "product": 21,
+  "units_sold": 9,
+  "selling_date": "2016-08-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 748,
+ "fields": {
+  "product": 60,
+  "units_sold": 0,
+  "selling_date": "2016-11-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 749,
+ "fields": {
+  "product": 93,
+  "units_sold": 10,
+  "selling_date": "2016-10-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 750,
+ "fields": {
+  "product": 91,
+  "units_sold": 17,
+  "selling_date": "2016-07-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 751,
+ "fields": {
+  "product": 63,
+  "units_sold": 20,
+  "selling_date": "2016-04-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 752,
+ "fields": {
+  "product": 91,
+  "units_sold": 5,
+  "selling_date": "2016-10-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 753,
+ "fields": {
+  "product": 49,
+  "units_sold": 15,
+  "selling_date": "2016-03-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 754,
+ "fields": {
+  "product": 56,
+  "units_sold": 16,
+  "selling_date": "2016-01-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 755,
+ "fields": {
+  "product": 100,
+  "units_sold": 10,
+  "selling_date": "2016-09-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 756,
+ "fields": {
+  "product": 8,
+  "units_sold": 8,
+  "selling_date": "2016-02-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 757,
+ "fields": {
+  "product": 21,
+  "units_sold": 0,
+  "selling_date": "2016-05-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 758,
+ "fields": {
+  "product": 59,
+  "units_sold": 16,
+  "selling_date": "2016-09-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 759,
+ "fields": {
+  "product": 5,
+  "units_sold": 19,
+  "selling_date": "2016-09-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 760,
+ "fields": {
+  "product": 81,
+  "units_sold": 1,
+  "selling_date": "2016-06-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 761,
+ "fields": {
+  "product": 53,
+  "units_sold": 16,
+  "selling_date": "2016-11-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 762,
+ "fields": {
+  "product": 27,
+  "units_sold": 20,
+  "selling_date": "2016-02-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 763,
+ "fields": {
+  "product": 31,
+  "units_sold": 14,
+  "selling_date": "2016-05-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 764,
+ "fields": {
+  "product": 30,
+  "units_sold": 0,
+  "selling_date": "2016-07-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 765,
+ "fields": {
+  "product": 65,
+  "units_sold": 18,
+  "selling_date": "2016-10-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 766,
+ "fields": {
+  "product": 10,
+  "units_sold": 5,
+  "selling_date": "2016-05-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 767,
+ "fields": {
+  "product": 46,
+  "units_sold": 20,
+  "selling_date": "2016-06-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 768,
+ "fields": {
+  "product": 68,
+  "units_sold": 17,
+  "selling_date": "2016-07-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 769,
+ "fields": {
+  "product": 6,
+  "units_sold": 8,
+  "selling_date": "2016-03-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 770,
+ "fields": {
+  "product": 68,
+  "units_sold": 1,
+  "selling_date": "2016-07-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 771,
+ "fields": {
+  "product": 84,
+  "units_sold": 8,
+  "selling_date": "2016-09-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 772,
+ "fields": {
+  "product": 80,
+  "units_sold": 20,
+  "selling_date": "2016-02-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 773,
+ "fields": {
+  "product": 25,
+  "units_sold": 4,
+  "selling_date": "2016-08-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 774,
+ "fields": {
+  "product": 10,
+  "units_sold": 19,
+  "selling_date": "2016-09-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 775,
+ "fields": {
+  "product": 69,
+  "units_sold": 11,
+  "selling_date": "2016-06-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 776,
+ "fields": {
+  "product": 61,
+  "units_sold": 19,
+  "selling_date": "2016-07-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 777,
+ "fields": {
+  "product": 72,
+  "units_sold": 4,
+  "selling_date": "2016-12-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 778,
+ "fields": {
+  "product": 72,
+  "units_sold": 17,
+  "selling_date": "2016-07-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 779,
+ "fields": {
+  "product": 28,
+  "units_sold": 0,
+  "selling_date": "2016-02-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 780,
+ "fields": {
+  "product": 30,
+  "units_sold": 12,
+  "selling_date": "2016-11-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 781,
+ "fields": {
+  "product": 25,
+  "units_sold": 1,
+  "selling_date": "2016-04-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 782,
+ "fields": {
+  "product": 10,
+  "units_sold": 17,
+  "selling_date": "2016-03-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 783,
+ "fields": {
+  "product": 64,
+  "units_sold": 17,
+  "selling_date": "2016-12-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 784,
+ "fields": {
+  "product": 18,
+  "units_sold": 7,
+  "selling_date": "2016-02-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 785,
+ "fields": {
+  "product": 43,
+  "units_sold": 4,
+  "selling_date": "2016-11-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 786,
+ "fields": {
+  "product": 7,
+  "units_sold": 19,
+  "selling_date": "2016-12-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 787,
+ "fields": {
+  "product": 85,
+  "units_sold": 6,
+  "selling_date": "2016-09-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 788,
+ "fields": {
+  "product": 44,
+  "units_sold": 14,
+  "selling_date": "2016-08-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 789,
+ "fields": {
+  "product": 21,
+  "units_sold": 9,
+  "selling_date": "2016-04-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 790,
+ "fields": {
+  "product": 71,
+  "units_sold": 20,
+  "selling_date": "2016-06-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 791,
+ "fields": {
+  "product": 76,
+  "units_sold": 14,
+  "selling_date": "2016-01-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 792,
+ "fields": {
+  "product": 13,
+  "units_sold": 13,
+  "selling_date": "2016-02-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 793,
+ "fields": {
+  "product": 3,
+  "units_sold": 12,
+  "selling_date": "2016-04-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 794,
+ "fields": {
+  "product": 2,
+  "units_sold": 14,
+  "selling_date": "2016-06-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 795,
+ "fields": {
+  "product": 90,
+  "units_sold": 8,
+  "selling_date": "2016-06-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 796,
+ "fields": {
+  "product": 32,
+  "units_sold": 5,
+  "selling_date": "2016-05-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 797,
+ "fields": {
+  "product": 37,
+  "units_sold": 5,
+  "selling_date": "2016-04-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 798,
+ "fields": {
+  "product": 44,
+  "units_sold": 17,
+  "selling_date": "2016-09-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 799,
+ "fields": {
+  "product": 42,
+  "units_sold": 14,
+  "selling_date": "2016-06-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 800,
+ "fields": {
+  "product": 38,
+  "units_sold": 2,
+  "selling_date": "2016-10-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 801,
+ "fields": {
+  "product": 16,
+  "units_sold": 10,
+  "selling_date": "2016-12-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 802,
+ "fields": {
+  "product": 17,
+  "units_sold": 6,
+  "selling_date": "2016-12-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 803,
+ "fields": {
+  "product": 35,
+  "units_sold": 8,
+  "selling_date": "2016-11-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 804,
+ "fields": {
+  "product": 39,
+  "units_sold": 2,
+  "selling_date": "2016-06-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 805,
+ "fields": {
+  "product": 33,
+  "units_sold": 6,
+  "selling_date": "2016-10-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 806,
+ "fields": {
+  "product": 41,
+  "units_sold": 14,
+  "selling_date": "2016-01-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 807,
+ "fields": {
+  "product": 22,
+  "units_sold": 15,
+  "selling_date": "2016-11-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 808,
+ "fields": {
+  "product": 27,
+  "units_sold": 5,
+  "selling_date": "2016-02-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 809,
+ "fields": {
+  "product": 25,
+  "units_sold": 20,
+  "selling_date": "2016-01-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 810,
+ "fields": {
+  "product": 86,
+  "units_sold": 16,
+  "selling_date": "2016-08-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 811,
+ "fields": {
+  "product": 71,
+  "units_sold": 10,
+  "selling_date": "2016-05-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 812,
+ "fields": {
+  "product": 69,
+  "units_sold": 2,
+  "selling_date": "2016-08-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 813,
+ "fields": {
+  "product": 61,
+  "units_sold": 14,
+  "selling_date": "2016-05-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 814,
+ "fields": {
+  "product": 2,
+  "units_sold": 18,
+  "selling_date": "2016-07-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 815,
+ "fields": {
+  "product": 92,
+  "units_sold": 10,
+  "selling_date": "2016-01-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 816,
+ "fields": {
+  "product": 67,
+  "units_sold": 5,
+  "selling_date": "2016-03-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 817,
+ "fields": {
+  "product": 93,
+  "units_sold": 16,
+  "selling_date": "2016-10-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 818,
+ "fields": {
+  "product": 27,
+  "units_sold": 16,
+  "selling_date": "2016-01-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 819,
+ "fields": {
+  "product": 28,
+  "units_sold": 18,
+  "selling_date": "2016-03-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 820,
+ "fields": {
+  "product": 35,
+  "units_sold": 9,
+  "selling_date": "2016-10-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 821,
+ "fields": {
+  "product": 48,
+  "units_sold": 11,
+  "selling_date": "2016-01-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 822,
+ "fields": {
+  "product": 15,
+  "units_sold": 5,
+  "selling_date": "2016-06-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 823,
+ "fields": {
+  "product": 18,
+  "units_sold": 15,
+  "selling_date": "2016-06-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 824,
+ "fields": {
+  "product": 66,
+  "units_sold": 7,
+  "selling_date": "2016-04-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 825,
+ "fields": {
+  "product": 48,
+  "units_sold": 20,
+  "selling_date": "2016-05-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 826,
+ "fields": {
+  "product": 9,
+  "units_sold": 8,
+  "selling_date": "2016-04-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 827,
+ "fields": {
+  "product": 33,
+  "units_sold": 3,
+  "selling_date": "2016-05-31"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 828,
+ "fields": {
+  "product": 64,
+  "units_sold": 14,
+  "selling_date": "2016-10-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 829,
+ "fields": {
+  "product": 67,
+  "units_sold": 10,
+  "selling_date": "2016-02-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 830,
+ "fields": {
+  "product": 52,
+  "units_sold": 10,
+  "selling_date": "2016-10-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 831,
+ "fields": {
+  "product": 85,
+  "units_sold": 8,
+  "selling_date": "2016-05-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 832,
+ "fields": {
+  "product": 46,
+  "units_sold": 17,
+  "selling_date": "2016-02-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 833,
+ "fields": {
+  "product": 67,
+  "units_sold": 17,
+  "selling_date": "2016-05-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 834,
+ "fields": {
+  "product": 86,
+  "units_sold": 4,
+  "selling_date": "2016-05-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 835,
+ "fields": {
+  "product": 17,
+  "units_sold": 7,
+  "selling_date": "2016-01-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 836,
+ "fields": {
+  "product": 19,
+  "units_sold": 3,
+  "selling_date": "2016-12-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 837,
+ "fields": {
+  "product": 37,
+  "units_sold": 14,
+  "selling_date": "2016-03-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 838,
+ "fields": {
+  "product": 66,
+  "units_sold": 14,
+  "selling_date": "2016-07-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 839,
+ "fields": {
+  "product": 61,
+  "units_sold": 15,
+  "selling_date": "2016-11-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 840,
+ "fields": {
+  "product": 82,
+  "units_sold": 4,
+  "selling_date": "2016-05-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 841,
+ "fields": {
+  "product": 79,
+  "units_sold": 4,
+  "selling_date": "2016-04-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 842,
+ "fields": {
+  "product": 52,
+  "units_sold": 2,
+  "selling_date": "2016-06-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 843,
+ "fields": {
+  "product": 49,
+  "units_sold": 1,
+  "selling_date": "2016-07-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 844,
+ "fields": {
+  "product": 8,
+  "units_sold": 11,
+  "selling_date": "2016-05-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 845,
+ "fields": {
+  "product": 22,
+  "units_sold": 17,
+  "selling_date": "2016-06-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 846,
+ "fields": {
+  "product": 59,
+  "units_sold": 6,
+  "selling_date": "2016-03-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 847,
+ "fields": {
+  "product": 91,
+  "units_sold": 17,
+  "selling_date": "2016-02-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 848,
+ "fields": {
+  "product": 1,
+  "units_sold": 6,
+  "selling_date": "2016-03-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 849,
+ "fields": {
+  "product": 77,
+  "units_sold": 17,
+  "selling_date": "2016-07-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 850,
+ "fields": {
+  "product": 51,
+  "units_sold": 1,
+  "selling_date": "2016-11-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 851,
+ "fields": {
+  "product": 90,
+  "units_sold": 17,
+  "selling_date": "2016-04-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 852,
+ "fields": {
+  "product": 94,
+  "units_sold": 0,
+  "selling_date": "2016-04-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 853,
+ "fields": {
+  "product": 45,
+  "units_sold": 19,
+  "selling_date": "2016-11-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 854,
+ "fields": {
+  "product": 94,
+  "units_sold": 0,
+  "selling_date": "2016-01-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 855,
+ "fields": {
+  "product": 36,
+  "units_sold": 8,
+  "selling_date": "2016-12-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 856,
+ "fields": {
+  "product": 49,
+  "units_sold": 6,
+  "selling_date": "2016-06-01"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 857,
+ "fields": {
+  "product": 37,
+  "units_sold": 10,
+  "selling_date": "2016-12-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 858,
+ "fields": {
+  "product": 4,
+  "units_sold": 2,
+  "selling_date": "2016-06-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 859,
+ "fields": {
+  "product": 15,
+  "units_sold": 3,
+  "selling_date": "2016-05-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 860,
+ "fields": {
+  "product": 42,
+  "units_sold": 20,
+  "selling_date": "2016-11-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 861,
+ "fields": {
+  "product": 6,
+  "units_sold": 13,
+  "selling_date": "2016-11-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 862,
+ "fields": {
+  "product": 11,
+  "units_sold": 13,
+  "selling_date": "2016-07-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 863,
+ "fields": {
+  "product": 50,
+  "units_sold": 0,
+  "selling_date": "2016-09-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 864,
+ "fields": {
+  "product": 100,
+  "units_sold": 19,
+  "selling_date": "2016-04-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 865,
+ "fields": {
+  "product": 21,
+  "units_sold": 12,
+  "selling_date": "2016-02-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 866,
+ "fields": {
+  "product": 16,
+  "units_sold": 9,
+  "selling_date": "2016-01-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 867,
+ "fields": {
+  "product": 57,
+  "units_sold": 13,
+  "selling_date": "2016-11-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 868,
+ "fields": {
+  "product": 10,
+  "units_sold": 3,
+  "selling_date": "2016-05-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 869,
+ "fields": {
+  "product": 6,
+  "units_sold": 0,
+  "selling_date": "2016-05-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 870,
+ "fields": {
+  "product": 27,
+  "units_sold": 9,
+  "selling_date": "2016-03-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 871,
+ "fields": {
+  "product": 48,
+  "units_sold": 19,
+  "selling_date": "2016-06-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 872,
+ "fields": {
+  "product": 48,
+  "units_sold": 16,
+  "selling_date": "2016-12-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 873,
+ "fields": {
+  "product": 14,
+  "units_sold": 19,
+  "selling_date": "2016-06-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 874,
+ "fields": {
+  "product": 35,
+  "units_sold": 0,
+  "selling_date": "2016-10-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 875,
+ "fields": {
+  "product": 44,
+  "units_sold": 19,
+  "selling_date": "2016-06-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 876,
+ "fields": {
+  "product": 17,
+  "units_sold": 8,
+  "selling_date": "2016-05-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 877,
+ "fields": {
+  "product": 28,
+  "units_sold": 6,
+  "selling_date": "2016-06-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 878,
+ "fields": {
+  "product": 42,
+  "units_sold": 5,
+  "selling_date": "2016-02-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 879,
+ "fields": {
+  "product": 22,
+  "units_sold": 1,
+  "selling_date": "2016-04-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 880,
+ "fields": {
+  "product": 79,
+  "units_sold": 3,
+  "selling_date": "2016-11-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 881,
+ "fields": {
+  "product": 66,
+  "units_sold": 12,
+  "selling_date": "2016-07-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 882,
+ "fields": {
+  "product": 80,
+  "units_sold": 17,
+  "selling_date": "2016-01-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 883,
+ "fields": {
+  "product": 75,
+  "units_sold": 9,
+  "selling_date": "2016-01-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 884,
+ "fields": {
+  "product": 41,
+  "units_sold": 6,
+  "selling_date": "2016-03-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 885,
+ "fields": {
+  "product": 59,
+  "units_sold": 6,
+  "selling_date": "2016-12-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 886,
+ "fields": {
+  "product": 46,
+  "units_sold": 4,
+  "selling_date": "2016-09-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 887,
+ "fields": {
+  "product": 90,
+  "units_sold": 6,
+  "selling_date": "2016-02-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 888,
+ "fields": {
+  "product": 71,
+  "units_sold": 16,
+  "selling_date": "2016-06-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 889,
+ "fields": {
+  "product": 48,
+  "units_sold": 17,
+  "selling_date": "2016-06-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 890,
+ "fields": {
+  "product": 16,
+  "units_sold": 11,
+  "selling_date": "2016-09-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 891,
+ "fields": {
+  "product": 55,
+  "units_sold": 20,
+  "selling_date": "2016-04-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 892,
+ "fields": {
+  "product": 49,
+  "units_sold": 6,
+  "selling_date": "2016-06-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 893,
+ "fields": {
+  "product": 100,
+  "units_sold": 4,
+  "selling_date": "2016-02-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 894,
+ "fields": {
+  "product": 85,
+  "units_sold": 6,
+  "selling_date": "2016-03-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 895,
+ "fields": {
+  "product": 34,
+  "units_sold": 14,
+  "selling_date": "2016-10-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 896,
+ "fields": {
+  "product": 66,
+  "units_sold": 2,
+  "selling_date": "2016-02-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 897,
+ "fields": {
+  "product": 71,
+  "units_sold": 3,
+  "selling_date": "2016-08-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 898,
+ "fields": {
+  "product": 46,
+  "units_sold": 19,
+  "selling_date": "2016-09-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 899,
+ "fields": {
+  "product": 73,
+  "units_sold": 18,
+  "selling_date": "2016-09-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 900,
+ "fields": {
+  "product": 6,
+  "units_sold": 12,
+  "selling_date": "2016-05-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 901,
+ "fields": {
+  "product": 17,
+  "units_sold": 2,
+  "selling_date": "2016-10-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 902,
+ "fields": {
+  "product": 59,
+  "units_sold": 11,
+  "selling_date": "2016-04-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 903,
+ "fields": {
+  "product": 31,
+  "units_sold": 20,
+  "selling_date": "2016-08-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 904,
+ "fields": {
+  "product": 36,
+  "units_sold": 17,
+  "selling_date": "2016-10-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 905,
+ "fields": {
+  "product": 62,
+  "units_sold": 4,
+  "selling_date": "2016-11-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 906,
+ "fields": {
+  "product": 88,
+  "units_sold": 14,
+  "selling_date": "2016-07-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 907,
+ "fields": {
+  "product": 51,
+  "units_sold": 4,
+  "selling_date": "2016-02-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 908,
+ "fields": {
+  "product": 64,
+  "units_sold": 11,
+  "selling_date": "2016-10-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 909,
+ "fields": {
+  "product": 23,
+  "units_sold": 19,
+  "selling_date": "2016-04-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 910,
+ "fields": {
+  "product": 90,
+  "units_sold": 0,
+  "selling_date": "2016-12-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 911,
+ "fields": {
+  "product": 97,
+  "units_sold": 17,
+  "selling_date": "2016-04-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 912,
+ "fields": {
+  "product": 60,
+  "units_sold": 13,
+  "selling_date": "2016-03-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 913,
+ "fields": {
+  "product": 73,
+  "units_sold": 15,
+  "selling_date": "2016-05-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 914,
+ "fields": {
+  "product": 89,
+  "units_sold": 17,
+  "selling_date": "2016-05-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 915,
+ "fields": {
+  "product": 75,
+  "units_sold": 3,
+  "selling_date": "2016-09-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 916,
+ "fields": {
+  "product": 6,
+  "units_sold": 19,
+  "selling_date": "2016-02-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 917,
+ "fields": {
+  "product": 45,
+  "units_sold": 11,
+  "selling_date": "2016-06-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 918,
+ "fields": {
+  "product": 33,
+  "units_sold": 10,
+  "selling_date": "2016-01-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 919,
+ "fields": {
+  "product": 67,
+  "units_sold": 12,
+  "selling_date": "2016-11-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 920,
+ "fields": {
+  "product": 57,
+  "units_sold": 3,
+  "selling_date": "2016-01-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 921,
+ "fields": {
+  "product": 51,
+  "units_sold": 13,
+  "selling_date": "2016-01-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 922,
+ "fields": {
+  "product": 30,
+  "units_sold": 14,
+  "selling_date": "2016-10-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 923,
+ "fields": {
+  "product": 22,
+  "units_sold": 10,
+  "selling_date": "2016-01-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 924,
+ "fields": {
+  "product": 78,
+  "units_sold": 9,
+  "selling_date": "2016-02-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 925,
+ "fields": {
+  "product": 2,
+  "units_sold": 13,
+  "selling_date": "2016-10-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 926,
+ "fields": {
+  "product": 72,
+  "units_sold": 11,
+  "selling_date": "2016-07-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 927,
+ "fields": {
+  "product": 64,
+  "units_sold": 4,
+  "selling_date": "2016-03-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 928,
+ "fields": {
+  "product": 91,
+  "units_sold": 1,
+  "selling_date": "2016-02-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 929,
+ "fields": {
+  "product": 28,
+  "units_sold": 7,
+  "selling_date": "2016-08-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 930,
+ "fields": {
+  "product": 39,
+  "units_sold": 20,
+  "selling_date": "2016-11-12"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 931,
+ "fields": {
+  "product": 84,
+  "units_sold": 9,
+  "selling_date": "2016-07-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 932,
+ "fields": {
+  "product": 49,
+  "units_sold": 9,
+  "selling_date": "2016-06-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 933,
+ "fields": {
+  "product": 8,
+  "units_sold": 2,
+  "selling_date": "2016-09-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 934,
+ "fields": {
+  "product": 15,
+  "units_sold": 6,
+  "selling_date": "2016-08-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 935,
+ "fields": {
+  "product": 13,
+  "units_sold": 10,
+  "selling_date": "2016-05-02"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 936,
+ "fields": {
+  "product": 56,
+  "units_sold": 11,
+  "selling_date": "2016-04-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 937,
+ "fields": {
+  "product": 99,
+  "units_sold": 19,
+  "selling_date": "2016-06-19"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 938,
+ "fields": {
+  "product": 12,
+  "units_sold": 20,
+  "selling_date": "2016-06-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 939,
+ "fields": {
+  "product": 66,
+  "units_sold": 18,
+  "selling_date": "2016-10-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 940,
+ "fields": {
+  "product": 65,
+  "units_sold": 8,
+  "selling_date": "2016-12-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 941,
+ "fields": {
+  "product": 57,
+  "units_sold": 2,
+  "selling_date": "2016-03-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 942,
+ "fields": {
+  "product": 21,
+  "units_sold": 8,
+  "selling_date": "2016-01-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 943,
+ "fields": {
+  "product": 18,
+  "units_sold": 16,
+  "selling_date": "2016-06-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 944,
+ "fields": {
+  "product": 76,
+  "units_sold": 17,
+  "selling_date": "2016-03-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 945,
+ "fields": {
+  "product": 23,
+  "units_sold": 17,
+  "selling_date": "2016-11-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 946,
+ "fields": {
+  "product": 90,
+  "units_sold": 8,
+  "selling_date": "2016-10-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 947,
+ "fields": {
+  "product": 50,
+  "units_sold": 20,
+  "selling_date": "2016-02-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 948,
+ "fields": {
+  "product": 53,
+  "units_sold": 16,
+  "selling_date": "2016-01-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 949,
+ "fields": {
+  "product": 50,
+  "units_sold": 14,
+  "selling_date": "2016-01-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 950,
+ "fields": {
+  "product": 75,
+  "units_sold": 16,
+  "selling_date": "2016-01-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 951,
+ "fields": {
+  "product": 43,
+  "units_sold": 19,
+  "selling_date": "2016-07-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 952,
+ "fields": {
+  "product": 1,
+  "units_sold": 3,
+  "selling_date": "2016-12-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 953,
+ "fields": {
+  "product": 53,
+  "units_sold": 8,
+  "selling_date": "2016-11-17"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 954,
+ "fields": {
+  "product": 7,
+  "units_sold": 11,
+  "selling_date": "2016-07-13"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 955,
+ "fields": {
+  "product": 64,
+  "units_sold": 10,
+  "selling_date": "2016-01-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 956,
+ "fields": {
+  "product": 24,
+  "units_sold": 10,
+  "selling_date": "2016-10-14"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 957,
+ "fields": {
+  "product": 80,
+  "units_sold": 19,
+  "selling_date": "2016-08-16"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 958,
+ "fields": {
+  "product": 40,
+  "units_sold": 3,
+  "selling_date": "2016-10-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 959,
+ "fields": {
+  "product": 6,
+  "units_sold": 15,
+  "selling_date": "2016-10-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 960,
+ "fields": {
+  "product": 90,
+  "units_sold": 9,
+  "selling_date": "2016-07-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 961,
+ "fields": {
+  "product": 50,
+  "units_sold": 20,
+  "selling_date": "2016-07-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 962,
+ "fields": {
+  "product": 68,
+  "units_sold": 20,
+  "selling_date": "2016-05-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 963,
+ "fields": {
+  "product": 98,
+  "units_sold": 9,
+  "selling_date": "2016-11-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 964,
+ "fields": {
+  "product": 37,
+  "units_sold": 8,
+  "selling_date": "2016-08-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 965,
+ "fields": {
+  "product": 39,
+  "units_sold": 14,
+  "selling_date": "2016-02-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 966,
+ "fields": {
+  "product": 31,
+  "units_sold": 15,
+  "selling_date": "2016-12-18"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 967,
+ "fields": {
+  "product": 20,
+  "units_sold": 9,
+  "selling_date": "2016-12-11"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 968,
+ "fields": {
+  "product": 70,
+  "units_sold": 7,
+  "selling_date": "2016-11-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 969,
+ "fields": {
+  "product": 22,
+  "units_sold": 1,
+  "selling_date": "2016-12-07"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 970,
+ "fields": {
+  "product": 1,
+  "units_sold": 19,
+  "selling_date": "2016-12-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 971,
+ "fields": {
+  "product": 16,
+  "units_sold": 20,
+  "selling_date": "2016-05-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 972,
+ "fields": {
+  "product": 24,
+  "units_sold": 12,
+  "selling_date": "2016-10-10"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 973,
+ "fields": {
+  "product": 74,
+  "units_sold": 16,
+  "selling_date": "2016-10-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 974,
+ "fields": {
+  "product": 8,
+  "units_sold": 16,
+  "selling_date": "2016-01-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 975,
+ "fields": {
+  "product": 78,
+  "units_sold": 5,
+  "selling_date": "2016-08-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 976,
+ "fields": {
+  "product": 48,
+  "units_sold": 0,
+  "selling_date": "2016-10-21"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 977,
+ "fields": {
+  "product": 31,
+  "units_sold": 13,
+  "selling_date": "2016-08-26"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 978,
+ "fields": {
+  "product": 91,
+  "units_sold": 18,
+  "selling_date": "2016-02-20"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 979,
+ "fields": {
+  "product": 37,
+  "units_sold": 8,
+  "selling_date": "2016-12-15"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 980,
+ "fields": {
+  "product": 54,
+  "units_sold": 18,
+  "selling_date": "2016-01-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 981,
+ "fields": {
+  "product": 6,
+  "units_sold": 12,
+  "selling_date": "2016-02-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 982,
+ "fields": {
+  "product": 27,
+  "units_sold": 2,
+  "selling_date": "2016-11-05"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 983,
+ "fields": {
+  "product": 67,
+  "units_sold": 12,
+  "selling_date": "2016-08-25"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 984,
+ "fields": {
+  "product": 31,
+  "units_sold": 2,
+  "selling_date": "2016-05-04"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 985,
+ "fields": {
+  "product": 88,
+  "units_sold": 20,
+  "selling_date": "2016-12-24"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 986,
+ "fields": {
+  "product": 68,
+  "units_sold": 4,
+  "selling_date": "2016-10-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 987,
+ "fields": {
+  "product": 78,
+  "units_sold": 17,
+  "selling_date": "2016-04-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 988,
+ "fields": {
+  "product": 97,
+  "units_sold": 0,
+  "selling_date": "2016-04-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 989,
+ "fields": {
+  "product": 38,
+  "units_sold": 6,
+  "selling_date": "2016-09-06"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 990,
+ "fields": {
+  "product": 21,
+  "units_sold": 16,
+  "selling_date": "2016-02-23"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 991,
+ "fields": {
+  "product": 42,
+  "units_sold": 8,
+  "selling_date": "2016-05-30"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 992,
+ "fields": {
+  "product": 5,
+  "units_sold": 17,
+  "selling_date": "2016-01-03"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 993,
+ "fields": {
+  "product": 13,
+  "units_sold": 8,
+  "selling_date": "2016-10-22"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 994,
+ "fields": {
+  "product": 71,
+  "units_sold": 19,
+  "selling_date": "2016-11-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 995,
+ "fields": {
+  "product": 26,
+  "units_sold": 1,
+  "selling_date": "2016-02-08"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 996,
+ "fields": {
+  "product": 98,
+  "units_sold": 0,
+  "selling_date": "2016-05-09"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 997,
+ "fields": {
+  "product": 60,
+  "units_sold": 11,
+  "selling_date": "2016-05-28"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 998,
+ "fields": {
+  "product": 46,
+  "units_sold": 8,
+  "selling_date": "2016-09-27"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 999,
+ "fields": {
+  "product": 6,
+  "units_sold": 16,
+  "selling_date": "2016-02-29"
+ }
+},
+{
+ "model": "productsales.productsales",
+ "pk": 1000,
+ "fields": {
+  "product": 59,
+  "units_sold": 20,
+  "selling_date": "2016-11-01"
+ }
+}
+]
