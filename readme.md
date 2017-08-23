@@ -118,7 +118,7 @@ Access system administration page via http://localhost:8000/admin
 		}
 
 
-* $ sudo ln -s /etc/nginx/sites-available/viral_load2 /etc/nginx/sites-enabled
+* $ sudo ln -s /etc/nginx/sites-available/sales /etc/nginx/sites-enabled
 
 * $ sudo service nginx configtest
 * $ sudo service nginx restart
