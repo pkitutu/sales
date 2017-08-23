@@ -1,0 +1,37 @@
+{% extends "home/layout.html" %}
+{% load staticfiles %}
+
+
+{% block css %}
+	<link rel="stylesheet" href='{% static "/vendor/select2/dist/css/select2.min.css" %}'>
+{% endblock %}
+
+{% block js %}
+	<script type="text/javascript" src='{% static "/vendor/jquery-ui/jquery-ui.min.js" %}'></script>
+	
+{% endblock %}
+{% block content %}	
+	<span class="page-title">create sale</span>		
+	<div class="panel panel-default">
+		<div class="panel-body">
+			
+			<form action="{% url 'productsales:create' %}" method="post" role="form">
+				{% csrf_token %}
+				
+				{{ form.as_p }}
+
+				<br><input type='submit' value='save' class="btn btn-danger btn-submit "> 			
+			</form>
+		</div>
+	</div>
+	<script type="text/javascript">
+	$(function () {
+		$("#id_selling_date").datepicker({
+			changeMonth:true,
+			changeYear:true,
+			dateFormat:'yy-mm-dd',
+			maxDate: new Date(),
+		});
+	});
+	</script>
+{% endblock %}

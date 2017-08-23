@@ -1,0 +1,152 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+        
+        <title>Sales App</title>
+        <!-- <link rel="Shortcut Icon" href='{% static "images/favicon.png" %}' /> -->
+        <link href='{% static "tisa-admin/assets/css/style.css"%}' rel="stylesheet" media="screen">
+        <link rel="stylesheet" href='{% static "vendor/jquery-ui/themes/base/jquery-ui.min.css" %}'>
+             
+
+        <link href='{% static "vendor/metisMenu/dist/metisMenu.min.css" %}' rel="stylesheet">
+            
+       <!-- <link href="../bower_components/morrisjs/morris.css" rel="stylesheet"> -->
+        <link href='{% static "vendor/font-awesome-min/css/font-awesome.min.css" %}' rel="stylesheet" type="text/css">
+
+        <link rel="stylesheet" href='{% static "vendor/bootstrap/dist/css/bootstrap.min.css" %}'>
+        <link rel="stylesheet" href='{% static "css/app.css" %}'>
+        {% block css %}
+        {% endblock %}
+
+        <script type="text/javascript" src='{% static "vendor/jquery/dist/jquery.min.js" %}'></script>
+        <script type="text/javascript" src='{% static "vendor/bootstrap/dist/js/bootstrap.min.js" %}'></script>
+        <script type="text/javascript" src='{% static "vendor/jquery-ui/jquery-ui.min.js" %}'></script>
+        <script type="text/javascript" src='{% static "vendor/metisMenu/dist/metisMenu.min.js" %}'></script>
+
+        
+
+        <script type="text/javascript" src='{% static "js/app.js" %}'></script>
+
+        {% block js %}
+        {% endblock %}
+
+        <link href='{% static "tisa-admin/assets/icons/font-awesome/css/font-awesome.min.css" %}' rel="stylesheet" media="screen">
+            <!-- ionicons -->   
+        <link href='{% static "tisa-admin/assets/icons/ionicons/css/ionicons.min.css" %}' rel="stylesheet" media="screen">
+                
+    
+    <!-- page specific stylesheets -->
+                
+        <!-- main stylesheet -->
+       
+        
+       
+    </head>
+    <body class="side_nav_hover theme_b">
+        <!-- top bar -->
+        <header class="navbar navbar-fixed-top" role="banner">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a href="/" >
+                                          
+                        <span id='main-link'>Sales App</span>
+                        
+                    </a>
+                </div>
+               
+                <ul class="nav navbar-nav navbar-right">
+                   
+                    
+                    <li class="user_menu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                           
+                            <span class="navbar_el_icon ion-person"></span> <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-right">
+                            <li class="divider"></li>
+                            <li><a href="{% url 'logout' %}">Log Out</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="javascript:void(0)" class="slidebar-toggle"><span class="navbar_el_icon ion-navicon-round"></span></a></li>
+                </ul>
+            </div>
+        </header>
+        
+        <!-- main content -->
+        <div id="main_wrapper">
+            <div class="page_content">
+                <div class="container-fluid">
+                    <div class="row">
+                        {% block content %}
+                        {% endblock %}
+                    </div>
+                </div>
+            </div>      
+        </div>
+
+        <!-- side navigation -->
+        <nav id="side_nav">
+            <ul>
+                <li>
+                    <a href="{% url 'home_page' %}"><span class="ion-home"></span> <span class="nav_title">Home</span></a>
+                </li>
+                
+                <li>
+                    <a href="#">
+                        <span class="ion-ios7-albums-outline"></span>
+                        <span class="nav_title">Products</span>
+                    </a>
+                    <div class="sub_panel">
+                        <div class="side_inner">
+                            <ul>
+                               
+                                <li><a href="{% url 'products:create' %}"> Create</a></li>
+                                <li><a href="{% url 'products:list' %}"> List</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                 <li>
+                    <a href="#">
+                        <span class="ion-clipboard"></span>
+                        <span class="nav_title">Product Sales</span>
+                    </a>
+                    <div class="sub_panel">
+                        <div class="side_inner">
+                            <ul>
+                               
+                                <li><a href="{% url 'productsales:create' %}"> Create</a></li>
+                                <li><a href="{% url 'productsales:list' %}"> List</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </nav>
+        
+        <!-- common functions -->
+        <script src='{% static "tisa-admin/assets/js/tisa_common.js"%}'></script>
+        
+      
+        <style type="text/css">
+        #main-link{
+            vertical-align: bottom;
+            font-size: 20px;
+            color: #FFF;
+            font-weight: lighter;
+        }
+
+        #main-link:hover{
+            text-decoration: none;
+        }
+
+        </style>
+    </body>
+</html>

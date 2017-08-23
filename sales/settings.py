@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
+    'home.apps.HomeConfig',
     'products.apps.ProductsConfig',
     'productsales.apps.ProductsalesConfig',
 ]
@@ -123,3 +124,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/dev/howto/static-files/
 
 STATIC_URL = '/static/'
+
+LOGIN_URL = '/login/'
+LOGOUT_URL = '/logout'
+
+SESSION_SERIALIZER = 'django.contrib.sessions.serializers.PickleSerializer'
+
+try:
+    from local_settings import *
+except ImportError:
+    pass

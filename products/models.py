@@ -6,5 +6,8 @@ from django.db import models
 #Products model
 class Products(models.Model):
 	product_name = models.CharField(max_length=64)
-	buying_price = models.CharField(max_length=128)
-	selling_price = models.CharField(max_length=64, null=True)
+	buying_price = models.IntegerField()
+	selling_price = models.IntegerField()
+
+	def __str__(self): #return category as default
+		return self.product_name

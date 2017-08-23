@@ -1,0 +1,18 @@
+{% extends "home/layout.html" %}
+{% load staticfiles %}
+
+{% block content %}	
+	<span class="page-title">create product</span>		
+	<div class="panel panel-default">
+		<div class="panel-body">
+			
+			<form action="{% url 'products:create' %}" method="post" role="form">
+				{% csrf_token %}
+				
+				{{ form.as_p }}
+
+				<br><input type='submit' value='save' class="btn btn-danger btn-submit "> 			
+			</form>
+		</div>
+	</div>
+{% endblock %}
