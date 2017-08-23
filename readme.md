@@ -1,20 +1,18 @@
 # About the app - Sales App
-TThe Sales App is an application to help track sales for different products that also tracked by the system. 
+The Sales App is an application to help track sales for different products that also tracked by the system. 
 It is developed using Django, a python framework based on the Model-View-Controller (MVC)architecture complete with unit tests
 
-##Libraries used
+## Libraries used
 
-###Front end (JavaScript/CSS)
+### Front end (JavaScript/CSS)
 
-*
 * tisa-admin
 * bootstrap
 * datatables
 * jquery
 
-###Back end (Python)
+### Back end (Python)
 
-*
 * Django
 * bootstrap
 * djangorestframework
@@ -22,14 +20,13 @@ It is developed using Django, a python framework based on the Model-View-Control
 ## How to set up
 ### Pre-requisites
 
-1. python2.7 //minimum requirement
-2. mysql-server
-3. nginx //web server for production
-4. browser
+* python2.7 //minimum requirement
+* mysql-server
+* nginx //web server for production
+* browser
 
 ### Initial setup
 
-*
 * $ cd sales
 * $ pip install -r requirements.txt // install dependent libraries
 * $ cd sales
@@ -71,7 +68,7 @@ Access system administration page via http://localhost:8000/admin
 * $ sudo mkdir -p /etc/uwsgi/sites
 * $ cd /etc/uwsgi/sites
 
-* //Create the config files, be sure to replace user with your user name
+* #Create the config files, be sure to replace user with your user name
 * $ sudo vi sales.ini
 
 		[uwsgi]
@@ -127,7 +124,7 @@ Access system administration page via http://localhost:8000/admin
 * $ sudo service nginx restart
 * $ sudo service uwsgi start
 
-* //Acess on the ip and port provided in the browser
+* #Acess on the ip and port provided in the browser
 
-##Access the latest
+## Access the latest
 git clone git@github.com:pkitutu/sales.git
